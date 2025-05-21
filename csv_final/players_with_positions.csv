@@ -1,0 +1,783 @@
+Team,Player,Position
+Chelsea FC,Thibaut Courtois,Goalkeeper
+Chelsea FC,Asmir Begovic,Goalkeeper
+Chelsea FC,Eduardo,Goalkeeper
+Chelsea FC,Matej Delac,Goalkeeper
+Chelsea FC,Jamal Blackman,Goalkeeper
+Chelsea FC,César Azpilicueta,Centre-Back
+Chelsea FC,David Luiz,Centre-Back
+Chelsea FC,Andreas Christensen,Centre-Back
+Chelsea FC,Gary Cahill,Centre-Back
+Chelsea FC,Kurt Zouma,Centre-Back
+Chelsea FC,Nathan Aké,Centre-Back
+Chelsea FC,Tomas Kalas,Centre-Back
+Chelsea FC,Michael Hector,Centre-Back
+Chelsea FC,Kenneth Omeruo,Centre-Back
+Chelsea FC,Matt Miazga,Centre-Back
+Chelsea FC,John Terry,Centre-Back
+Chelsea FC,Marcos Alonso,Left-Back
+Chelsea FC,Abdul Rahman Baba,Left-Back
+Chelsea FC,Branislav Ivanovic,Right-Back
+Chelsea FC,Todd Kane,Right-Back
+Chelsea FC,Wallace Oliveira,Right-Back
+Chelsea FC,Ola Aina,Right-Back
+Chelsea FC,N'Golo Kanté,Defensive Midfield
+Chelsea FC,Nemanja Matic,Defensive Midfield
+Chelsea FC,Nathaniel Chalobah,Defensive Midfield
+Chelsea FC,Cesc Fàbregas,Central Midfield
+Chelsea FC,Mario Pasalic,Central Midfield
+Chelsea FC,Marco van Ginkel,Central Midfield
+Chelsea FC,Lewis Baker,Central Midfield
+Chelsea FC,Ruben Loftus-Cheek,Central Midfield
+Chelsea FC,Victorien Angban,Central Midfield
+Chelsea FC,Juan Cuadrado,Right Midfield
+Chelsea FC,Oscar,Attacking Midfield
+Chelsea FC,Lucas Piazón,Attacking Midfield
+Chelsea FC,Nathan,Attacking Midfield
+Chelsea FC,Danilo Pantic,Attacking Midfield
+Chelsea FC,Eden Hazard,Left Winger
+Chelsea FC,Willian,Left Winger
+Chelsea FC,Kenedy,Left Winger
+Chelsea FC,Christian Atsu,Left Winger
+Chelsea FC,Jérémie Boga,Left Winger
+Chelsea FC,Cristian Cuevas,Left Winger
+Chelsea FC,Pedro,Right Winger
+Chelsea FC,Victor Moses,Right Winger
+Chelsea FC,Bertrand Traoré,Right Winger
+Chelsea FC,Diego Costa,Centre-Forward
+Chelsea FC,Michy Batshuayi,Centre-Forward
+Chelsea FC,Loïc Rémy,Centre-Forward
+Chelsea FC,Dominic Solanke,Centre-Forward
+Manchester City,Joe Hart,Goalkeeper
+Manchester City,Claudio Bravo,Goalkeeper
+Manchester City,Willy Caballero,Goalkeeper
+Manchester City,Angus Gunn,Goalkeeper
+Manchester City,John Stones,Centre-Back
+Manchester City,Nicolás Otamendi,Centre-Back
+Manchester City,Vincent Kompany,Centre-Back
+Manchester City,Eliaquim Mangala,Centre-Back
+Manchester City,Tosin Adarabioyo,Centre-Back
+Manchester City,Aleksandar Kolarov,Left-Back
+Manchester City,Gaël Clichy,Left-Back
+Manchester City,Oleksandr Zinchenko,Left-Back
+Manchester City,Angeliño,Left-Back
+Manchester City,Jesús Navas,Right-Back
+Manchester City,Pablo Zabaleta,Right-Back
+Manchester City,Bacary Sagna,Right-Back
+Manchester City,Pablo Maffeo,Right-Back
+Manchester City,Fernandinho,Defensive Midfield
+Manchester City,Fernando,Defensive Midfield
+Manchester City,İlkay Gündoğan,Central Midfield
+Manchester City,Fabian Delph,Central Midfield
+Manchester City,Yaya Touré,Central Midfield
+Manchester City,Aleix García,Central Midfield
+Manchester City,Kevin De Bruyne,Attacking Midfield
+Manchester City,David Silva,Attacking Midfield
+Manchester City,Samir Nasri,Attacking Midfield
+Manchester City,Nolito,Left Winger
+Manchester City,Raheem Sterling,Right Winger
+Manchester City,Leroy Sané,Right Winger
+Manchester City,Brahim Díaz,Right Winger
+Manchester City,Phil Foden,Right Winger
+Manchester City,Sergio Agüero,Centre-Forward
+Manchester City,Gabriel Jesus,Centre-Forward
+Manchester City,Wilfried Bony,Centre-Forward
+Manchester City,Kelechi Iheanacho,Centre-Forward
+Tottenham Hotspur,Hugo Lloris,Goalkeeper
+Tottenham Hotspur,Michel Vorm,Goalkeeper
+Tottenham Hotspur,Pau López,Goalkeeper
+Tottenham Hotspur,Luke McGee,Goalkeeper
+Tottenham Hotspur,Alfie Whiteman,Goalkeeper
+Tottenham Hotspur,Toby Alderweireld,Centre-Back
+Tottenham Hotspur,Jan Vertonghen,Centre-Back
+Tottenham Hotspur,Eric Dier,Centre-Back
+Tottenham Hotspur,Federico Fazio,Centre-Back
+Tottenham Hotspur,Cameron Carter-Vickers,Centre-Back
+Tottenham Hotspur,Ben Davies,Centre-Back
+Tottenham Hotspur,Kevin Wimmer,Centre-Back
+Tottenham Hotspur,Anton Walkes,Centre-Back
+Tottenham Hotspur,Danny Rose,Left-Back
+Tottenham Hotspur,Kyle Walker,Right-Back
+Tottenham Hotspur,Kieran Trippier,Right-Back
+Tottenham Hotspur,Kyle Walker-Peters,Right-Back
+Tottenham Hotspur,Victor Wanyama,Defensive Midfield
+Tottenham Hotspur,Nabil Bentaleb,Defensive Midfield
+Tottenham Hotspur,Filip Lesniak,Defensive Midfield
+Tottenham Hotspur,Moussa Sissoko,Central Midfield
+Tottenham Hotspur,Harry Winks,Defensive Midfield
+Tottenham Hotspur,Christian Eriksen,Central Midfield
+Tottenham Hotspur,Mousa Dembélé,Central Midfield
+Tottenham Hotspur,Ryan Mason,Central Midfield
+Tottenham Hotspur,Tom Carroll,Central Midfield
+Tottenham Hotspur,Josh Onomah,Central Midfield
+Tottenham Hotspur,Luke Amos,Central Midfield
+Tottenham Hotspur,Dele Alli,Attacking Midfield
+Tottenham Hotspur,Heung-min Son,Left Winger
+Tottenham Hotspur,Georges-Kevin N'Koudou,Left Winger
+Tottenham Hotspur,Samuel Shashoua,Left Winger
+Tottenham Hotspur,Erik Lamela,Right Winger
+Tottenham Hotspur,Clinton N'Jie,Right Winger
+Tottenham Hotspur,Marcus Edwards,Right Winger
+Tottenham Hotspur,Harry Kane,Centre-Forward
+Tottenham Hotspur,Vincent Janssen,Centre-Forward
+Tottenham Hotspur,Shayon Harrison,Centre-Forward
+Arsenal FC,Wojciech Szczesny,Goalkeeper
+Arsenal FC,David Ospina,Goalkeeper
+Arsenal FC,Petr Cech,Goalkeeper
+Arsenal FC,Emiliano Martínez,Goalkeeper
+Arsenal FC,Shkodran Mustafi,Centre-Back
+Arsenal FC,Matt Macey,Goalkeeper
+Arsenal FC,Laurent Koscielny,Centre-Back
+Arsenal FC,Calum Chambers,Centre-Back
+Arsenal FC,Gabriel Paulista,Centre-Back
+Arsenal FC,Rob Holding,Centre-Back
+Arsenal FC,Per Mertesacker,Centre-Back
+Arsenal FC,Krystian Bielik,Centre-Back
+Arsenal FC,Nacho Monreal,Left-Back
+Arsenal FC,Kieran Gibbs,Left-Back
+Arsenal FC,Marc Bola,Left-Back
+Arsenal FC,Héctor Bellerín,Right-Back
+Arsenal FC,Carl Jenkinson,Right-Back
+Arsenal FC,Mathieu Debuchy,Right-Back
+Arsenal FC,Ainsley Maitland-Niles,Right-Back
+Arsenal FC,Granit Xhaka,Defensive Midfield
+Arsenal FC,Francis Coquelin,Defensive Midfield
+Arsenal FC,Mohamed Elneny,Defensive Midfield
+Arsenal FC,Gedion Zelalem,Defensive Midfield
+Arsenal FC,Ben Sheaf,Defensive Midfield
+Arsenal FC,Aaron Ramsey,Central Midfield
+Arsenal FC,Alex Oxlade-Chamberlain,Central Midfield
+Arsenal FC,Jack Wilshere,Central Midfield
+Arsenal FC,Santi Cazorla,Central Midfield
+Arsenal FC,Josh Dasilva,Central Midfield
+Arsenal FC,Mesut Özil,Attacking Midfield
+Arsenal FC,Jeff Reine-Adélaïde,Attacking Midfield
+Arsenal FC,Alex Iwobi,Attacking Midfield
+Arsenal FC,Chris Willock,Left Winger
+Arsenal FC,Stephy Mavididi,Left Winger
+Arsenal FC,Theo Walcott,Right Winger
+Arsenal FC,Joel Campbell,Right Winger
+Arsenal FC,Alexis Sánchez,Centre-Forward
+Arsenal FC,Olivier Giroud,Centre-Forward
+Arsenal FC,Lucas Pérez,Centre-Forward
+Arsenal FC,Danny Welbeck,Centre-Forward
+Arsenal FC,Chuba Akpom,Centre-Forward
+Arsenal FC,Yaya Sanogo,Centre-Forward
+Manchester United,David de Gea,Goalkeeper
+Manchester United,Sergio Romero,Goalkeeper
+Manchester United,Sam Johnstone,Goalkeeper
+Manchester United,Joel Pereira,Goalkeeper
+Manchester United,Dean Henderson,Goalkeeper
+Manchester United,Kieran O'Hara,Goalkeeper
+Manchester United,Eric Bailly,Centre-Back
+Manchester United,Daley Blind,Centre-Back
+Manchester United,Marcos Rojo,Centre-Back
+Manchester United,Chris Smalling,Centre-Back
+Manchester United,Luke Shaw,Left-Back
+Southampton FC,Fraser Forster,Goalkeeper
+Southampton FC,Alex McCarthy,Goalkeeper
+Southampton FC,Paulo Gazzaniga,Goalkeeper
+Southampton FC,Mouez Hassen,Goalkeeper
+Southampton FC,Stuart Taylor,Goalkeeper
+Southampton FC,Harry Lewis,Goalkeeper
+Southampton FC,Virgil van Dijk,Centre-Back
+Southampton FC,José Fonte,Centre-Back
+Southampton FC,Maya Yoshida,Centre-Back
+Southampton FC,Martín Cáceres,Centre-Back
+Southampton FC,Jack Stephens,Centre-Back
+Southampton FC,Florin Gardoș,Centre-Back
+Southampton FC,Cuco Martina,Centre-Back
+Southampton FC,Ryan Bertrand,Left-Back
+Southampton FC,Matt Targett,Left-Back
+Southampton FC,Sam McQueen,Left-Back
+Southampton FC,Cédric Soares,Right-Back
+Southampton FC,Jérémy Pied,Right-Back
+Southampton FC,Jordy Clasie,Defensive Midfield
+Southampton FC,Pierre-Emile Højbjerg,Defensive Midfield
+Southampton FC,Oriol Romeu,Defensive Midfield
+Southampton FC,James Ward-Prowse,Central Midfield
+Southampton FC,Steven Davis,Central Midfield
+Southampton FC,Harrison Reed,Central Midfield
+Southampton FC,Jake Hesketh,Attacking Midfield
+Southampton FC,Sofiane Boufal,Left Winger
+Southampton FC,Dušan Tadić,Right Winger
+Southampton FC,Nathan Redmond,Right Winger
+Southampton FC,Josh Sims,Right Winger
+Southampton FC,Lloyd Isgrove,Right Winger
+Southampton FC,Olufela Olomola,Right Winger
+Southampton FC,Manolo Gabbiadini,Centre-Forward
+Southampton FC,Charlie Austin,Centre-Forward
+Southampton FC,Jay Rodríguez,Centre-Forward
+Southampton FC,Shane Long,Centre-Forward
+Southampton FC,Sam Gallagher,Centre-Forward
+Leicester City,Kasper Schmeichel,Goalkeeper
+Leicester City,Ron-Robert Zieler,Goalkeeper
+Leicester City,Ben Hamer,Goalkeeper
+Leicester City,Robert Huth,Centre-Back
+Leicester City,Daniel Amartey,Centre-Back
+Leicester City,Luis Hernández,Centre-Back
+Leicester City,Wes Morgan,Centre-Back
+Leicester City,Molla Wagué,Centre-Back
+Leicester City,Yohan Benalouane,Centre-Back
+Leicester City,Marcin Wasilewski,Centre-Back
+Leicester City,Elliott Moore,Centre-Back
+Leicester City,Christian Fuchs,Left-Back
+Leicester City,Ben Chilwell,Left-Back
+Leicester City,Danny Simpson,Right-Back
+Leicester City,Wilfred Ndidi,Defensive Midfield
+Leicester City,Nampalys Mendy,Defensive Midfield
+Leicester City,Danny Drinkwater,Central Midfield
+Leicester City,Andy King,Central Midfield
+Leicester City,Matty James,Central Midfield
+Leicester City,Marc Albrighton,Right Midfield
+Leicester City,Jeffrey Schlupp,Left Midfield
+Leicester City,Bartosz Kapustka,Attacking Midfield
+Leicester City,Tom Lawrence,Attacking Midfield
+Leicester City,Ahmed Musa,Left Winger
+Leicester City,Demarai Gray,Left Winger
+Leicester City,Harvey Barnes,Left Winger
+Leicester City,Riyad Mahrez,Right Winger
+Leicester City,Islam Slimani,Centre-Forward
+Leicester City,Jamie Vardy,Centre-Forward
+Leicester City,Shinji Okazaki,Centre-Forward
+Leicester City,Leonardo Ulloa,Centre-Forward
+Stoke City,Jack Butland,Goalkeeper
+Stoke City,Lee Grant,Goalkeeper
+Stoke City,Jakob Haugaard,Goalkeeper
+Stoke City,Shay Given,Goalkeeper
+Stoke City,Daniel Bachmann,Goalkeeper
+Stoke City,Bruno Martins Indi,Centre-Back
+Stoke City,Ryan Shawcross,Centre-Back
+Stoke City,Erik Pieters,Centre-Back
+Stoke City,Marc Muniesa,Centre-Back
+Stoke City,Geoff Cameron,Centre-Back
+Stoke City,Philipp Wollscheid,Centre-Back
+Stoke City,Ryan Sweeney,Centre-Back
+AFC Bournemouth,Simon Francis,Right-Back
+AFC Bournemouth,Jordan Lee,Right-Back
+AFC Bournemouth,Marc Pugh,Left Winger
+AFC Bournemouth,Jordon Ibe,Right Winger
+AFC Bournemouth,Benik Afobe,Centre-Forward
+AFC Bournemouth,Callum Wilson,Centre-Forward
+AFC Bournemouth,Joshua King,Centre-Forward
+AFC Bournemouth,Lys Mousset,Centre-Forward
+AFC Bournemouth,Harry Cornick,Centre-Forward
+AFC Bournemouth,Lewis Grabban,Centre-Forward
+AFC Bournemouth,Sam Surridge,Centre-Forward
+Manchester United,Guillermo Varela,Right-Back
+Manchester United,Anthony Martial,Centre-Forward
+Manchester United,Memphis Depay,Centre-Forward
+Manchester United,Wayne Rooney,Centre-Forward
+Manchester United,Zlatan Ibrahimović,Centre-Forward
+Manchester United,James Wilson,Centre-Forward
+Manchester United,Zak Dearnley,Centre-Forward
+Liverpool FC,Simon Mignolet,Goalkeeper
+Liverpool FC,Danny Ward,Goalkeeper
+Liverpool FC,Connor Randall,Right-Back
+Liverpool FC,Adam Lallana,Attacking Midfield
+Liverpool FC,Sadio Mané,Left Winger
+Liverpool FC,Lazar Markovic,Right Winger
+Liverpool FC,Sheyi Ojo,Right Winger
+Liverpool FC,Roberto Firmino,Centre-Forward
+Liverpool FC,Divock Origi,Centre-Forward
+Liverpool FC,Rhian Brewster,Centre-Forward
+Everton FC,Mateusz Hewelt,Goalkeeper
+Everton FC,Jonjoe Kenny,Right-Back
+Everton FC,Ademola Lookman,Second Striker
+Everton FC,Shani Tarashaj,Second Striker
+Everton FC,Romelu Lukaku,Centre-Forward
+Everton FC,Gerard Deulofeu,Centre-Forward
+Everton FC,Enner Valencia,Centre-Forward
+Everton FC,Oumar Niasse,Centre-Forward
+Everton FC,Dominic Calvert-Lewin,Centre-Forward
+Everton FC,Arouna Koné,Centre-Forward
+Everton FC,Leandro Rodríguez,Centre-Forward
+Everton FC,Conor McAleny,Centre-Forward
+West Ham United,Adrián,Goalkeeper
+West Ham United,Darren Randolph,Goalkeeper
+West Ham United,Raphael Spiegel,Goalkeeper
+West Ham United,Álvaro Arbeloa,Right-Back
+West Ham United,Sam Westley,Right-Back
+West Ham United,Sofiane Feghouli,Defensive Midfield
+West Ham United,Grady Diangana,Right Winger
+West Ham United,André Ayew,Centre-Forward
+West Ham United,Michail Antonio,Centre-Forward
+West Ham United,Simone Zaza,Centre-Forward
+West Ham United,Enner Valencia,Centre-Forward
+West Ham United,Andy Carroll,Centre-Forward
+West Ham United,Diafra Sakho,Centre-Forward
+West Ham United,Jonathan Calleri,Centre-Forward
+West Ham United,Ashley Fletcher,Centre-Forward
+Sunderland AFC,Bryan Oviedo,Left-Back
+Sunderland AFC,Javier Manquillo,Right-Back
+Sunderland AFC,Josh Robson,Right-Back
+Sunderland AFC,Didier Ndong,Defensive Midfield
+Sunderland AFC,Lee Cattermole,Defensive Midfield
+Sunderland AFC,Sebastian Larsson,Central Midfield
+Sunderland AFC,Darron Gibson,Central Midfield
+Sunderland AFC,Ethan Robson,Central Midfield
+Sunderland AFC,Steven Pienaar,Left Midfield
+Sunderland AFC,Rees Greenwood,Attacking Midfield
+Sunderland AFC,Fabio Borini,Left Winger
+Sunderland AFC,Adnan Januzaj,Right Winger
+Sunderland AFC,Duncan Watmore,Right Winger
+Sunderland AFC,Will Buckley,Right Winger
+Sunderland AFC,Lynden Gooch,Right Winger
+Sunderland AFC,Josh Maja,Centre-Forward
+Burnley FC,Tom Heaton,Goalkeeper
+Burnley FC,Nick Pope,Goalkeeper
+Burnley FC,Paul Robinson,Goalkeeper
+Burnley FC,Michael Keane,Centre-Back
+Burnley FC,Ben Mee,Centre-Back
+Burnley FC,James Tarkowski,Centre-Back
+Burnley FC,Kevin Long,Centre-Back
+Burnley FC,Tom Anderson,Centre-Back
+Burnley FC,Stephen Ward,Left-Back
+Burnley FC,Danny Lafferty,Left-Back
+Burnley FC,Jon Flanagan,Right-Back
+Burnley FC,Matthew Lowton,Right-Back
+Burnley FC,Tendayi Darikwa,Right-Back
+Burnley FC,Brad Jackson,Right-Back
+Burnley FC,Steven Defour,Defensive Midfield
+Burnley FC,Ashley Westwood,Defensive Midfield
+Burnley FC,Aiden O'Neill,Defensive Midfield
+Burnley FC,Jeff Hendrick,Central Midfield
+Burnley FC,Scott Arfield,Central Midfield
+Burnley FC,David Jones,Central Midfield
+Burnley FC,Dean Marney,Central Midfield
+Burnley FC,Joey Barton,Central Midfield
+Burnley FC,Robbie Brady,Left Midfield
+Burnley FC,Fredrik Ulvestad,Attacking Midfield
+Burnley FC,George Boyd,Left Winger
+Burnley FC,Michael Kightly,Left Winger
+Burnley FC,Jóhann Berg Gudmundsson,Right Winger
+Burnley FC,Sam Vokes,Centre-Forward
+Burnley FC,Ashley Barnes,Centre-Forward
+Burnley FC,Rouwen Hennings,Centre-Forward
+Burnley FC,Lukas Jutkiewicz,Centre-Forward
+Burnley FC,Chris Long,Centre-Forward
+Burnley FC,Dan Agyei,Centre-Forward
+Burnley FC,Ntumba Massanka,Centre-Forward
+Crystal Palace,Steve Mandanda,Goalkeeper
+Crystal Palace,Wayne Hennessey,Goalkeeper
+Crystal Palace,Julián Speroni,Goalkeeper
+Crystal Palace,James Tomkins,Centre-Back
+Crystal Palace,Scott Dann,Centre-Back
+Crystal Palace,Luke Croll,Centre-Back
+Crystal Palace,Pape Souaré,Left-Back
+Crystal Palace,Martin Kelly,Right-Back
+Crystal Palace,Ben Wynter,Right-Back
+Crystal Palace,Aaron Wan-Bissaka,Right-Back
+Crystal Palace,Luka Milivojevic,Defensive Midfield
+Crystal Palace,Mile Jedinak,Defensive Midfield
+Crystal Palace,Mathieu Flamini,Defensive Midfield
+Crystal Palace,Michael Phillips,Defensive Midfield
+Crystal Palace,Yohan Cabaye,Central Midfield
+Crystal Palace,James McArthur,Central Midfield
+Crystal Palace,Jason Puncheon,Central Midfield
+Crystal Palace,Jordon Mutch,Central Midfield
+Crystal Palace,Hiram Boateng,Central Midfield
+Crystal Palace,Luke Dreher,Central Midfield
+Crystal Palace,Wilfried Zaha,Left Winger
+Crystal Palace,Bakary Sako,Left Winger
+Crystal Palace,Chung-yong Lee,Right Winger
+Crystal Palace,Christian Benteke,Centre-Forward
+Crystal Palace,Loïc Rémy,Centre-Forward
+Crystal Palace,Connor Wickham,Centre-Forward
+Crystal Palace,Fraizer Campbell,Centre-Forward
+Crystal Palace,Jonathan Benteke,Centre-Forward
+Crystal Palace,Kwesi Appiah,Centre-Forward
+Crystal Palace,Freddie Ladapo,Centre-Forward
+Watford FC,Costel Pantilimon,Goalkeeper
+Watford FC,Heurelho Gomes,Goalkeeper
+Watford FC,Giedrius Arlauskis,Goalkeeper
+Watford FC,Rene Gilmartin,Goalkeeper
+Watford FC,Christian Kabasele,Centre-Back
+Watford FC,Sebastian Prödl,Centre-Back
+Watford FC,Craig Cathcart,Centre-Back
+Watford FC,Miguel Britos,Centre-Back
+Watford FC,Adrian Mariappa,Centre-Back
+Liverpool FC,Loris Karius,Goalkeeper
+Liverpool FC,Ádám Bogdán,Goalkeeper
+Liverpool FC,Alexander Manninger,Goalkeeper
+Liverpool FC,Ben Woodburn,Attacking Midfield
+Liverpool FC,Harry Wilson,Right Winger
+Liverpool FC,Daniel Sturridge,Centre-Forward
+Liverpool FC,Danny Ings,Centre-Forward
+Everton FC,Joel Robles,Goalkeeper
+Everton FC,Maarten Stekelenburg,Goalkeeper
+Everton FC,Ramiro Funes Mori,Centre-Back
+West Ham United,Stephen Hendrie,Left-Back
+West Ham United,Sam Byram,Left-Back
+West Ham United,Lewis Page,Left-Back
+West Ham United,Alex Pike,Right-Back
+Sunderland AFC,Tommy Robson,Left-Back
+Sunderland AFC,Adam Matthews,Right-Back
+Sunderland AFC,Billy Jones,Right-Back
+Sunderland AFC,Donald Love,Right-Back
+Sunderland AFC,Jan Kirchhoff,Defensive Midfield
+Sunderland AFC,George Honeyman,Attacking Midfield
+Sunderland AFC,Elliot Embleton,Attacking Midfield
+Sunderland AFC,Wahbi Khazri,Left Winger
+Sunderland AFC,Jeremain Lens,Right Winger
+Sunderland AFC,Joel Asoro,Right Winger
+Sunderland AFC,Jermain Defoe,Centre-Forward
+Sunderland AFC,Victor Anichebe,Centre-Forward
+Burnley FC,Patrick Bamford,Centre-Forward
+Crystal Palace,Kleton Perntreou,Goalkeeper
+Crystal Palace,Mamadou Sakho,Centre-Back
+Crystal Palace,Joe Ledley,Central Midfield
+Crystal Palace,Noor Husin,Central Midfield
+Crystal Palace,Jeffrey Schlupp,Left Midfield
+Crystal Palace,Yannick Bolasie,Left Winger
+Watford FC,Tommie Hoban,Centre-Back
+Watford FC,Charlie Rowan,Centre-Back
+Watford FC,Jose Cholevas,Left-Back
+Watford FC,Brandon Mason,Left-Back
+Watford FC,Daryl Janmaat,Right-Back
+Watford FC,Allan Nyom,Right-Back
+Watford FC,Andrew Eleftheriou,Right-Back
+Watford FC,Étienne Capoue,Defensive Midfield
+Watford FC,Brice Dja Djedje,Defensive Midfield
+Watford FC,Roberto Pereyra,Central Midfield
+Watford FC,Tom Cleverley,Central Midfield
+Watford FC,Abdoulaye Doucouré,Central Midfield
+Watford FC,Sven Kums,Central Midfield
+Watford FC,Ikechi Anya,Left Midfield
+Watford FC,Camilo Zúñiga,Left Midfield
+Watford FC,Kenedy,Left Winger
+Watford FC,Steven Berghuis,Right Winger
+Burnley FC,Andre Gray,Centre-Forward
+Crystal Palace,Damien Delaney,Centre-Back
+Crystal Palace,Ryan Inniss,Centre-Back
+Crystal Palace,Patrick van Aanholt,Left-Back
+Crystal Palace,Zeki Fryers,Left-Back
+Crystal Palace,Joel Ward,Right-Back
+Crystal Palace,Jonny Williams,Attacking Midfield
+Crystal Palace,Sullay Kaikai,Left Winger
+Crystal Palace,Keshi Anderson,Left Winger
+Crystal Palace,Andros Townsend,Right Winger
+Watford FC,Younès Kaboul,Centre-Back
+Watford FC,Mario Suárez,Defensive Midfield
+Watford FC,Valon Behrami,Defensive Midfield
+Watford FC,Juan Carlos Paredes,Defensive Midfield
+Watford FC,Adlène Guédioura,Defensive Midfield
+Watford FC,Ben Watson,Central Midfield
+Watford FC,Carl Stewart,Central Midfield
+Watford FC,Dion Pereira,Left Winger
+Watford FC,Nordin Amrabat,Right Winger
+Watford FC,M'Baye Niang,Centre-Forward
+Watford FC,Troy Deeney,Centre-Forward
+Watford FC,Odion Ighalo,Centre-Forward
+Watford FC,Matej Vydra,Centre-Forward
+Watford FC,Stefano Okaka,Centre-Forward
+Watford FC,Isaac Success,Centre-Forward
+Watford FC,Obbi Oulare,Centre-Forward
+Watford FC,Mauro Zárate,Centre-Forward
+Watford FC,Jerome Sinclair,Centre-Forward
+Watford FC,Mathias Ranégie,Centre-Forward
+Watford FC,Michael Folivi,Centre-Forward
+AFC Bournemouth,Artur Boruc, Goalkeeper
+AFC Bournemouth,Adam Federici, Goalkeeper
+AFC Bournemouth,Aaron Ramsdale, Goalkeeper
+AFC Bournemouth,Ryan Allsop, Goalkeeper
+AFC Bournemouth,Jordan Holmes, Defender
+AFC Bournemouth,Nathan Aké, Defender
+AFC Bournemouth,Steve Cook, Defender
+AFC Bournemouth,Tyrone Mings, Defender
+AFC Bournemouth,Marc Wilson, Defender
+AFC Bournemouth,Baily Cargill, Defender
+AFC Bournemouth,Jack Simpson, Defender
+AFC Bournemouth,Corey Jordan, Defender
+AFC Bournemouth,Charlie Daniels, Defender
+AFC Bournemouth,Brad Smith, Defender
+AFC Bournemouth,Rhoys Wiggins, Defender
+AFC Bournemouth,Callum Buckley, Defender
+AFC Bournemouth,Ollie Harfield, Defender
+AFC Bournemouth,Adam Smith, Defender
+AFC Bournemouth,Jack Wilshere, Midfielder
+AFC Bournemouth,Lewis Cook, Midfielder
+AFC Bournemouth,Dan Gosling, Midfielder
+AFC Bournemouth,Harry Arter, Midfielder
+AFC Bournemouth,Andrew Surman, Midfielder
+AFC Bournemouth,Eunan O'Kane, Midfielder
+AFC Bournemouth,Emerson Hyndman, Midfielder
+AFC Bournemouth,Matt Worthington, Midfielder
+AFC Bournemouth,Keelan O'Connell, Midfielder
+AFC Bournemouth,Max Gradel, Midfielder
+AFC Bournemouth,Ryan Fraser, Midfielder
+AFC Bournemouth,Junior Stanislas, Midfielder
+Manchester United,Morgan Schneiderlin, Midfielder
+Manchester United,Michael Carrick, Midfielder
+Manchester United,Paul Pogba, Midfielder
+Manchester United,Henrikh Mkhitaryan, Midfielder
+Manchester United,Ander Herrera, Midfielder
+Manchester United,Marouane Fellaini, Midfielder
+Manchester United,Bastian Schweinsteiger, Midfielder
+Manchester United,Matty Willock, Midfielder
+Manchester United,Scott McTominay, Midfielder
+Manchester United,Juan Mata, Midfielder
+Manchester United,Jesse Lingard, Midfielder
+Manchester United,Andreas Pereira, Midfielder
+Manchester United,Demetri Mitchell, Midfielder
+Manchester United,Josh Harrop, Midfielder
+Manchester United,Angel Gomes, Midfielder
+Manchester United,Marcus Rashford, Midfielder
+Manchester United,Adnan Januzaj, Midfielder
+Manchester United,Phil Jones, Defender
+Manchester United,Cameron Borthwick-Jackson, Defender
+Manchester United,Matteo Darmian, Defender
+Manchester United,Antonio Valencia, Defender
+Manchester United,Ashley Young, Defender
+Manchester United,Timothy Fosu-Mensah, Defender
+Manchester United,Axel Tuanzebe, Defender
+Liverpool FC,Joel Matip, Defender
+Liverpool FC,Dejan Lovren, Defender
+Liverpool FC,Mamadou Sakho, Defender
+Liverpool FC,Joe Gomez, Defender
+Liverpool FC,Ragnar Klavan, Defender
+Liverpool FC,Alberto Moreno, Defender
+Liverpool FC,Nathaniel Clyne, Defender
+Liverpool FC,Jon Flanagan, Defender
+Liverpool FC,Andre Wisdom, Defender
+Liverpool FC,Trent Alexander-Arnold, Defender
+Liverpool FC,Emre Can, Midfielder
+Liverpool FC,Lucas Leiva, Midfielder
+Liverpool FC,Marko Grujić, Midfielder
+Liverpool FC,Kevin Stewart, Midfielder
+Liverpool FC,MJ Williams, Midfielder
+Liverpool FC,Paulinho, Midfielder
+Liverpool FC,Georginio Wijnaldum, Midfielder
+Liverpool FC,Jordan Henderson, Midfielder
+Liverpool FC,James Milner, Midfielder
+Liverpool FC,Ovie Ejaria, Midfielder
+Liverpool FC,Philippe Coutinho, Midfielder
+Everton FC,Ashley Williams, Defender
+Everton FC,Mason Holgate, Defender
+Everton FC,Brendan Galloway, Defender
+Everton FC,Phil Jagielka, Defender
+Everton FC,Tyias Browning, Defender
+Everton FC,Matthew Pennington, Defender
+Everton FC,Leighton Baines, Defender
+Everton FC,Bryan Oviedo, Defender
+Everton FC,Luke Garbutt, Defender
+Everton FC,Séamus Coleman, Defender
+Everton FC,Morgan Schneiderlin, Midfielder
+Everton FC,Idrissa Gueye, Midfielder
+Everton FC,Muhamed Besic, Midfielder
+Everton FC,Gareth Barry, Midfielder
+Everton FC,Ross Barkley, Midfielder
+Everton FC,James McCarthy, Midfielder
+Everton FC,Tom Cleverley, Midfielder
+Everton FC,Tom Davies, Midfielder
+Everton FC,Darron Gibson, Midfielder
+Everton FC,Joe Williams, Midfielder
+Everton FC,Yannick Bolasie, Midfielder
+Everton FC,Aiden McGeady, Midfielder
+Everton FC,Kevin Mirallas, Midfielder
+Everton FC,Aaron Lennon, Midfielder
+West Ham United,Winston Reid, Defender
+West Ham United,Angelo Ogbonna, Defender
+West Ham United,José Fonte, Defender
+West Ham United,Reece Oxford, Defender
+West Ham United,James Collins, Defender
+West Ham United,Reece Burke, Defender
+West Ham United,Doneil Henry, Defender
+West Ham United,Aaron Cresswell, Defender
+West Ham United,Arthur Masuaku, Defender
+West Ham United,Cheikhou Kouyaté, Midfielder
+West Ham United,Håvard Nordtveit, Midfielder
+West Ham United,Edimilson Fernandes, Midfielder
+West Ham United,Josh Cullen, Midfielder
+West Ham United,Pedro Obiang, Midfielder
+West Ham United,Mark Noble, Midfielder
+West Ham United,Moses Makasi, Midfielder
+West Ham United,Declan Rice, Midfielder
+West Ham United,Domingos Quina, Midfielder
+West Ham United,Dimitri Payet, Midfielder
+West Ham United,Manuel Lanzini, Midfielder
+West Ham United,Dan Kemp, Midfielder
+West Ham United,Marcus Browne, Midfielder
+West Ham United,Nathan Holland, Midfielder
+West Ham United,Gökhan Töre, Midfielder
+West Ham United,Robert Snodgrass, Midfielder
+Stoke City,Joel Taylor, Defender
+Stoke City,Glen Johnson, Defender
+Stoke City,Phil Bardsley, Defender
+Stoke City,Tom Edwards, Defender
+Stoke City,Giannelli Imbula, Midfielder
+Stoke City,Glenn Whelan, Midfielder
+Stoke City,Joe Allen, Midfielder
+Stoke City,Charlie Adam, Midfielder
+Stoke City,Xherdan Shaqiri, Midfielder
+Stoke City,Ramadan Sobhi, Midfielder
+Stoke City,Ibrahim Afellay, Midfielder
+Stoke City,Stephen Ireland, Midfielder
+Stoke City,Thibaud Verlinden, Midfielder
+Stoke City,Jonathan Walters, Midfielder
+Stoke City,Bojan Krkic, Forward
+Stoke City,Wilfried Bony, Forward
+Stoke City,Saido Berahino, Forward
+Stoke City,Marko Arnautovic, Forward
+Stoke City,Mame Diouf, Forward
+Stoke City,Joselu, Forward
+Stoke City,Peter Crouch, Forward
+Stoke City,Julien Ngoy, Forward
+Hull City,David Marshall, Goalkeeper
+Hull City,Allan McGregor, Goalkeeper
+Hull City,Dusan Kuciak, Goalkeeper
+Hull City,Eldin Jakupović, Goalkeeper
+Hull City,Will Mannion, Goalkeeper
+Hull City,Harry Maguire, Defender
+Hull City,Andrea Ranocchia, Defender
+Hull City,Markus Henriksen, Defender
+Hull City,Curtis Davies, Defender
+Hull City,Michael Dawson, Defender
+Hull City,Alex Bruce, Defender
+Hull City,Harvey Rodgers, Defender
+Hull City,Andrew Robertson, Defender
+Hull City,Josh Tymon, Defender
+Hull City,Omar Elabdellaoui, Defender
+Hull City,Moses Odubajo, Defender
+Hull City,Ahmed El Mohamady, Defender
+Hull City,Brian Lenihan, Defender
+Hull City,Josh Clackstone, Defender
+Hull City,Jake Livermore, Midfielder
+Hull City,Alfred N'Diaye, Midfielder
+Hull City,Tom Huddlestone, Midfielder
+Hull City,Ryan Mason, Midfielder
+Hull City,Sam Clucas, Midfielder
+Hull City,David Meyler, Midfielder
+Hull City,James Weir, Midfielder
+Hull City,Daniel Batty, Midfielder
+Hull City,Evandro, Midfielder
+Hull City,Shaun Maloney, Midfielder
+Hull City,Greg Olley, Midfielder
+Hull City,Kamil Grosicki, Midfielder
+Hull City,Ben Hinchliffe, Midfielder
+Hull City,Lazar Markovic, Midfielder
+Hull City,Robert Snodgrass, Midfielder
+Hull City,Jarrod Bowen, Midfielder
+Hull City,Oumar Niasse, Forward
+Hull City,Abel Hernández, Forward
+Hull City,Dieumerci Mbokani, Forward
+Hull City,Will Keane, Forward
+Hull City,Adama Diomande, Forward
+Hull City,Greg Luer, Forward
+Hull City,Johan Ter Horst, Forward
+Sunderland AFC,Jordan Pickford, Goalkeeper
+Sunderland AFC,Vito Mannone, Goalkeeper
+Sunderland AFC,Mika, Goalkeeper
+Sunderland AFC,Maksymilian Stryjek, Goalkeeper
+Sunderland AFC,Lamine Koné, Defender
+Sunderland AFC,Papy Djilobodji, Defender
+Sunderland AFC,Jack Rodwell, Defender
+Sunderland AFC,Jason Denayer, Defender
+Sunderland AFC,Paddy McNair, Defender
+Sunderland AFC,Younès Kaboul, Defender
+Sunderland AFC,Joleon Lescott, Defender
+Sunderland AFC,John O'Shea, Defender
+Sunderland AFC,Michael Ledger, Defender
+Sunderland AFC,Patrick van Aanholt, Defender
+West Bromwich Albion,Ben Foster, Goalkeeper
+West Bromwich Albion,Boaz Myhill, Goalkeeper
+West Bromwich Albion,Jack Rose, Goalkeeper
+West Bromwich Albion,Alex Palmer, Goalkeeper
+West Bromwich Albion,Jonny Evans, Defender
+West Bromwich Albion,Craig Dawson, Defender
+West Bromwich Albion,Brendan Galloway, Defender
+West Bromwich Albion,Marc Wilson, Defender
+West Bromwich Albion,Jonas Olsson, Defender
+West Bromwich Albion,Gareth McAuley, Defender
+West Bromwich Albion,Sébastien Pocognoli, Defender
+West Bromwich Albion,Allan Nyom, Defender
+West Bromwich Albion,Kane Wilson, Defender
+West Bromwich Albion,Jake Livermore, Midfielder
+West Bromwich Albion,Claudio Yacob, Midfielder
+West Bromwich Albion,Sam Field, Midfielder
+West Bromwich Albion,James Morrison, Midfielder
+West Bromwich Albion,Chris Brunt, Midfielder
+West Bromwich Albion,Craig Gardner, Midfielder
+West Bromwich Albion,Darren Fletcher, Midfielder
+West Bromwich Albion,Rekeem Harper, Midfielder
+West Bromwich Albion,James McClean, Midfielder
+West Bromwich Albion,Nacer Chadli, Midfielder
+West Bromwich Albion,Matt Phillips, Midfielder
+West Bromwich Albion,Callum McManaman, Midfielder
+West Bromwich Albion,Jonathan Leko, Midfielder
+West Bromwich Albion,Saido Berahino, Forward
+West Bromwich Albion,Salomón Rondón, Forward
+West Bromwich Albion,Hal Robson-Kanu, Forward
+West Bromwich Albion,Rickie Lambert, Forward
+Middlesbrough FC,Víctor Valdés, Goalkeeper
+Middlesbrough FC,Brad Guzan, Goalkeeper
+Middlesbrough FC,Tomás Mejías, Goalkeeper
+Middlesbrough FC,Connor Ripley, Goalkeeper
+Middlesbrough FC,Dimitrios Konstantopoulos, Goalkeeper
+Middlesbrough FC,Calum Chambers, Defender
+Middlesbrough FC,Ben Gibson, Defender
+Middlesbrough FC,Bernardo Espinosa, Defender
+Middlesbrough FC,Daniel Ayala, Defender
+Middlesbrough FC,Alex Baptiste, Defender
+Middlesbrough FC,Dael Fry, Defender
+Middlesbrough FC,George Friend, Defender
+Middlesbrough FC,James Husband, Defender
+Middlesbrough FC,Antonio Barragán, Defender
+Middlesbrough FC,Fábio, Defender
+Middlesbrough FC,Marten de Roon, Midfielder
+Middlesbrough FC,Julien De Sart, Midfielder
+Middlesbrough FC,Adlène Guédioura, Midfielder
+Middlesbrough FC,Gastón Ramírez, Midfielder
+Middlesbrough FC,Adam Clayton, Midfielder
+Middlesbrough FC,Adam Forshaw, Midfielder
+Middlesbrough FC,Grant Leadbitter, Midfielder
+Middlesbrough FC,Adam Reach, Midfielder
+Middlesbrough FC,Stewart Downing, Midfielder
+Middlesbrough FC,Viktor Fischer, Midfielder
+Middlesbrough FC,Carlos de Pena, Midfielder
+Middlesbrough FC,Adama Traoré, Midfielder
+Middlesbrough FC,Albert Adomah, Midfielder
+Middlesbrough FC,Jordan Rhodes, Forward
+Middlesbrough FC,Álvaro Negredo, Forward
+Middlesbrough FC,Rudy Gestede, Forward
+Middlesbrough FC,Patrick Bamford, Forward
+Middlesbrough FC,Cristhian Stuani, Forward
+Middlesbrough FC,David Nugent, Forward
+Middlesbrough FC,Emilio Nsue, Forward
+Swansea City,Lukasz Fabianski, Goalkeeper
+Swansea City,Kristoffer Nordfeldt, Goalkeeper
+Swansea City,Mark Birighitti, Goalkeeper
+Swansea City,Gerhard Tremmel, Goalkeeper
+Swansea City,Federico Fernández, Defender
+Swansea City,Alfie Mawson, Defender
+Swansea City,Kyle Bartley, Defender
+Swansea City,Jordi Amat, Defender
+Swansea City,Mike van der Hoorn, Defender
+Swansea City,Neil Taylor, Defender
+Swansea City,Martin Olsson, Defender
+Swansea City,Franck Tabanou, Defender
+Swansea City,Stephen Kingsley, Defender
+Swansea City,Kyle Naughton, Defender
+Swansea City,Ángel Rangel, Defender
+Swansea City,Connor Roberts, Defender
+Swansea City,Leroy Fer, Midfielder
+Swansea City,Sung-yueng Ki, Midfielder
+Swansea City,Jack Cork, Midfielder
+Swansea City,Matt Grimes, Midfielder
+Swansea City,Tom Carroll, Midfielder
+Swansea City,Leon Britton, Midfielder
+Swansea City,Jay Fulton, Midfielder
+Swansea City,Gylfi Sigurdsson, Midfielder
+Swansea City,Jefferson Montero, Midfielder
+Swansea City,Modou Barrow, Midfielder
+Swansea City,Wayne Routledge, Midfielder
+Swansea City,Kenji Gorré, Midfielder
+Swansea City,Jordan Ayew, Midfielder
+Swansea City,Luciano Narsingh, Midfielder
+Swansea City,Nathan Dyer, Midfielder
+Swansea City,Daniel James, Midfielder
+Swansea City,Borja Bastón, Forward
+Swansea City,Fernando Llorente, Forward
+Swansea City,Bafétimbi Gomis, Forward
+Swansea City,Marvin Emnes, Forward
+Swansea City,Oli McBurnie, Forward

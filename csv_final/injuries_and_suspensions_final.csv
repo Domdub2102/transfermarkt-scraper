@@ -1,0 +1,633 @@
+team,player,event_type,reason,start_date,end_date,days,url
+Chelsea FC,Thibaut Courtois,injury,Ankle injury,2017-04-13,2017-04-20,8 days,https://www.transfermarkt.co.uk/thibaut-courtois/profil/spieler/108390
+Chelsea FC,Andreas Christensen,injury,Back problems,2017-05-09,2017-05-11,3 days,https://www.transfermarkt.co.uk/andreas-christensen/profil/spieler/196948
+Chelsea FC,Andreas Christensen,injury,Back problems,2017-03-09,2017-03-11,3 days,https://www.transfermarkt.co.uk/andreas-christensen/profil/spieler/196948
+Chelsea FC,Andreas Christensen,injury,Strain in the thigh and gluteal muscles,2016-10-17,2016-11-07,22 days,https://www.transfermarkt.co.uk/andreas-christensen/profil/spieler/196948
+Chelsea FC,Kurt Zouma,injury,Cruciate ligament tear,2016-02-08,2016-11-21,288 days,https://www.transfermarkt.co.uk/kurt-zouma/profil/spieler/157509
+Chelsea FC,Tomas Kalas,injury,Hamstring injury,2016-12-17,2017-01-07,22 days,https://www.transfermarkt.co.uk/tomas-kalas/profil/spieler/148657
+Chelsea FC,Tomas Kalas,injury,unknown injury,2016-09-20,2016-10-23,34 days,https://www.transfermarkt.co.uk/tomas-kalas/profil/spieler/148657
+Chelsea FC,Kenneth Omeruo,injury,unknown injury,2016-12-12,2016-12-26,15 days,https://www.transfermarkt.co.uk/kenneth-omeruo/profil/spieler/131708
+Chelsea FC,Kenneth Omeruo,injury,unknown injury,2016-11-12,2016-11-20,9 days,https://www.transfermarkt.co.uk/kenneth-omeruo/profil/spieler/131708
+Chelsea FC,John Terry,injury,strain,2016-11-22,2016-12-17,26 days,https://www.transfermarkt.co.uk/john-terry/profil/spieler/3160
+Chelsea FC,John Terry,injury,Ankle injury,2016-09-11,2016-10-01,21 days,https://www.transfermarkt.co.uk/john-terry/profil/spieler/3160
+Chelsea FC,John Terry,suspension,Red card suspension,2017-01-09,2017-01-15,7 days,https://www.transfermarkt.co.uk/john-terry/profil/spieler/3160
+Chelsea FC,Abdul Rahman Baba,injury,Cruciate ligament tear,2017-01-19,2017-09-04,229 days,https://www.transfermarkt.co.uk/abdul-rahman-baba/profil/spieler/224884
+Chelsea FC,Abdul Rahman Baba,injury,Meniscus damage,2017-01-19,2017-07-20,183 days,https://www.transfermarkt.co.uk/abdul-rahman-baba/profil/spieler/224884
+Chelsea FC,Abdul Rahman Baba,suspension,Called up to national team,2017-01-03,2017-01-17,15 days,https://www.transfermarkt.co.uk/abdul-rahman-baba/profil/spieler/224884
+Chelsea FC,Branislav Ivanovic,injury,Muscle injury,2016-10-09,2016-10-30,22 days,https://www.transfermarkt.co.uk/branislav-ivanovic/profil/spieler/36827
+Chelsea FC,Todd Kane,injury,Cruciate ligament tear,2016-04-21,2017-02-04,290 days,https://www.transfermarkt.co.uk/todd-kane/profil/spieler/154287
+Chelsea FC,N'Golo Kanté,suspension,Yellow card suspension,2016-12-18,2016-12-27,10 days,https://www.transfermarkt.co.uk/ngolo-kante/profil/spieler/225083
+Chelsea FC,Nemanja Matic,injury,Knock,2016-11-27,2016-12-10,14 days,https://www.transfermarkt.co.uk/nemanja-matic/profil/spieler/74683
+Chelsea FC,Cesc Fàbregas,injury,Thigh problems,2016-10-14,2016-11-18,36 days,https://www.transfermarkt.co.uk/cesc-fabregas/profil/spieler/8806
+Chelsea FC,Marco van Ginkel,injury,Knee injury,2017-03-02,2017-03-09,8 days,https://www.transfermarkt.co.uk/marco-van-ginkel/profil/spieler/147034
+Chelsea FC,Marco van Ginkel,injury,Knee injury,2016-08-05,2016-10-29,86 days,https://www.transfermarkt.co.uk/marco-van-ginkel/profil/spieler/147034
+Chelsea FC,Oscar,injury,Ill,2016-12-08,2016-12-17,10 days,https://www.transfermarkt.co.uk/oscar/profil/spieler/85314
+Chelsea FC,Lucas Piazón,injury,Broken jaw,2017-02-25,2017-04-03,38 days,https://www.transfermarkt.co.uk/lucas-piazon/profil/spieler/176485
+Chelsea FC,Nathan,injury,Knee injury,2017-01-01,2017-01-19,19 days,https://www.transfermarkt.co.uk/nathan/profil/spieler/294798
+Chelsea FC,Danilo Pantic,injury,Groin injury,2016-12-01,2017-02-02,64 days,https://www.transfermarkt.co.uk/danilo-pantic/profil/spieler/222830
+Chelsea FC,Danilo Pantic,suspension,No eligibility,2016-08-12,2016-09-09,29 days,https://www.transfermarkt.co.uk/danilo-pantic/profil/spieler/222830
+Chelsea FC,Eden Hazard,injury,Calf strain,2017-03-16,2017-03-30,15 days,https://www.transfermarkt.co.uk/eden-hazard/profil/spieler/50202
+Chelsea FC,Eden Hazard,injury,Knock,2016-12-12,2016-12-15,4 days,https://www.transfermarkt.co.uk/eden-hazard/profil/spieler/50202
+Chelsea FC,Kenedy,injury,Knee injury,2016-10-10,2017-01-27,110 days,https://www.transfermarkt.co.uk/kenedy/profil/spieler/281404
+Chelsea FC,Jérémie Boga,injury,Muscle injury,2016-11-23,2016-12-02,10 days,https://www.transfermarkt.co.uk/jeremie-boga/profil/spieler/216569
+Chelsea FC,Pedro,suspension,Yellow card suspension,2016-12-27,2017-01-01,6 days,https://www.transfermarkt.co.uk/pedro/profil/spieler/65278
+Chelsea FC,Victor Moses,injury,Calf strain,2017-03-18,2017-04-07,21 days,https://www.transfermarkt.co.uk/victor-moses/profil/spieler/59866
+Chelsea FC,Bertrand Traoré,injury,Leg injury,2016-12-02,2017-01-01,31 days,https://www.transfermarkt.co.uk/bertrand-traore/profil/spieler/131996
+Chelsea FC,Bertrand Traoré,injury,Foot injury,2016-11-07,2016-11-16,10 days,https://www.transfermarkt.co.uk/bertrand-traore/profil/spieler/131996
+Chelsea FC,Diego Costa,injury,Muscle fatigue,2016-11-07,2016-11-18,12 days,https://www.transfermarkt.co.uk/diego-costa/profil/spieler/44779
+Chelsea FC,Diego Costa,suspension,Yellow card suspension,2016-12-18,2016-12-27,10 days,https://www.transfermarkt.co.uk/diego-costa/profil/spieler/44779
+Chelsea FC,Loïc Rémy,injury,Calf strain,2016-11-17,2017-01-07,52 days,https://www.transfermarkt.co.uk/loic-remy/profil/spieler/45121
+Chelsea FC,Loïc Rémy,injury,Hamstring injury,2016-09-05,2016-11-05,62 days,https://www.transfermarkt.co.uk/loic-remy/profil/spieler/45121
+Manchester City,Claudio Bravo,injury,Calf muscle tear,2017-04-27,2017-06-23,58 days,https://www.transfermarkt.co.uk/claudio-bravo/profil/spieler/40423
+Manchester City,Nicolás Otamendi,suspension,Yellow card suspension,2016-12-04,2016-12-11,8 days,https://www.transfermarkt.co.uk/nicolas-otamendi/profil/spieler/54781
+Manchester City,Vincent Kompany,injury,Leg injury,2017-02-16,2017-03-06,19 days,https://www.transfermarkt.co.uk/vincent-kompany/profil/spieler/9594
+Manchester City,Vincent Kompany,injury,Knee injury,2016-11-21,2017-01-02,43 days,https://www.transfermarkt.co.uk/vincent-kompany/profil/spieler/9594
+Manchester City,Vincent Kompany,injury,Groin injury,2016-09-22,2016-10-24,33 days,https://www.transfermarkt.co.uk/vincent-kompany/profil/spieler/9594
+Manchester City,Vincent Kompany,injury,Groin injury,2016-05-05,2016-09-15,134 days,https://www.transfermarkt.co.uk/vincent-kompany/profil/spieler/9594
+Manchester City,Eliaquim Mangala,injury,Muscle injury,2016-12-22,2017-01-08,18 days,https://www.transfermarkt.co.uk/eliaquim-mangala/profil/spieler/90681
+Manchester City,Eliaquim Mangala,injury,Achilles tendon problems,2016-10-03,2016-10-22,20 days,https://www.transfermarkt.co.uk/eliaquim-mangala/profil/spieler/90681
+Manchester City,Gaël Clichy,injury,Back injury,2017-02-09,2017-03-01,21 days,https://www.transfermarkt.co.uk/gael-clichy/profil/spieler/7449
+Manchester City,Oleksandr Zinchenko,injury,Toe injury,2017-04-21,2017-05-07,17 days,https://www.transfermarkt.co.uk/oleksandr-zinchenko/profil/spieler/203853
+Manchester City,Oleksandr Zinchenko,injury,Calf strain,2016-12-19,2017-01-21,34 days,https://www.transfermarkt.co.uk/oleksandr-zinchenko/profil/spieler/203853
+Manchester City,Oleksandr Zinchenko,injury,Knock,2016-08-26,2016-09-26,32 days,https://www.transfermarkt.co.uk/oleksandr-zinchenko/profil/spieler/203853
+Manchester City,Bacary Sagna,injury,Groin strain,2017-03-19,2017-06-30,104 days,https://www.transfermarkt.co.uk/bacary-sagna/profil/spieler/26764
+Manchester City,Bacary Sagna,injury,Hamstring injury,2016-10-12,2016-11-18,38 days,https://www.transfermarkt.co.uk/bacary-sagna/profil/spieler/26764
+Manchester City,Bacary Sagna,injury,muscular problems,2016-08-17,2016-09-09,24 days,https://www.transfermarkt.co.uk/bacary-sagna/profil/spieler/26764
+Manchester City,Fernandinho,injury,Knock,2016-11-02,2016-11-04,3 days,https://www.transfermarkt.co.uk/fernandinho/profil/spieler/26267
+Manchester City,Fernandinho,suspension,Red card suspension,2017-01-03,2017-02-02,31 days,https://www.transfermarkt.co.uk/fernandinho/profil/spieler/26267
+Manchester City,Fernandinho,suspension,Red card suspension,2016-12-05,2016-12-19,15 days,https://www.transfermarkt.co.uk/fernandinho/profil/spieler/26267
+Manchester City,İlkay Gündoğan,injury,Cruciate ligament tear,2016-12-15,2017-08-13,242 days,https://www.transfermarkt.co.uk/ilkay-gundogan/profil/spieler/53622
+Manchester City,İlkay Gündoğan,injury,Dislocation of the kneecap,2016-05-02,2016-09-12,134 days,https://www.transfermarkt.co.uk/ilkay-gundogan/profil/spieler/53622
+Manchester City,Fabian Delph,injury,Muscle injury,2016-09-01,2017-01-05,127 days,https://www.transfermarkt.co.uk/fabian-delph/profil/spieler/50362
+Manchester City,Kevin De Bruyne,injury,Groin injury,2017-03-24,2017-03-31,8 days,https://www.transfermarkt.co.uk/kevin-de-bruyne/profil/spieler/88755
+Manchester City,Kevin De Bruyne,injury,Calf injury,2016-10-23,2016-10-28,6 days,https://www.transfermarkt.co.uk/kevin-de-bruyne/profil/spieler/88755
+Manchester City,Kevin De Bruyne,injury,Hamstring injury,2016-09-25,2016-10-14,20 days,https://www.transfermarkt.co.uk/kevin-de-bruyne/profil/spieler/88755
+Manchester City,Samir Nasri,injury,muscular problems,2017-05-06,2017-05-31,26 days,https://www.transfermarkt.co.uk/samir-nasri/profil/spieler/18935
+Manchester City,Samir Nasri,injury,Muscle injury,2017-04-06,2017-04-27,22 days,https://www.transfermarkt.co.uk/samir-nasri/profil/spieler/18935
+Manchester City,Samir Nasri,injury,muscular problems,2017-01-20,2017-01-25,6 days,https://www.transfermarkt.co.uk/samir-nasri/profil/spieler/18935
+Manchester City,Samir Nasri,injury,Achilles tendon problems,2016-11-07,2016-12-05,29 days,https://www.transfermarkt.co.uk/samir-nasri/profil/spieler/18935
+Manchester City,Samir Nasri,injury,Achilles tendon problems,2016-10-31,2016-11-03,4 days,https://www.transfermarkt.co.uk/samir-nasri/profil/spieler/18935
+Manchester City,Samir Nasri,injury,ankle sprain,2016-09-12,2016-09-19,8 days,https://www.transfermarkt.co.uk/samir-nasri/profil/spieler/18935
+Manchester City,Nolito,suspension,Red card suspension,2016-09-17,2016-10-03,17 days,https://www.transfermarkt.co.uk/nolito/profil/spieler/70934
+Manchester City,Raheem Sterling,injury,Calf strain,2016-10-03,2016-10-14,12 days,https://www.transfermarkt.co.uk/raheem-sterling/profil/spieler/134425
+Manchester City,Leroy Sané,injury,Muscle injury,2016-12-15,2017-01-16,33 days,https://www.transfermarkt.co.uk/leroy-sane/profil/spieler/192565
+Manchester City,Leroy Sané,injury,Hamstring injury,2016-08-04,2016-09-05,33 days,https://www.transfermarkt.co.uk/leroy-sane/profil/spieler/192565
+Manchester City,Sergio Agüero,injury,muscular problems,2016-08-29,2016-09-12,15 days,https://www.transfermarkt.co.uk/sergio-aguero/profil/spieler/26399
+Manchester City,Sergio Agüero,suspension,Red card suspension,2016-12-04,2016-12-27,24 days,https://www.transfermarkt.co.uk/sergio-aguero/profil/spieler/26399
+Manchester City,Sergio Agüero,suspension,Suspension through sports court,2016-09-05,2016-09-17,13 days,https://www.transfermarkt.co.uk/sergio-aguero/profil/spieler/26399
+Manchester City,Gabriel Jesus,injury,Metatarsal fracture,2017-02-16,2017-04-24,68 days,https://www.transfermarkt.co.uk/gabriel-jesus/profil/spieler/363205
+Manchester City,Gabriel Jesus,suspension,special leave,2017-01-02,2017-01-19,18 days,https://www.transfermarkt.co.uk/gabriel-jesus/profil/spieler/363205
+Manchester City,Gabriel Jesus,suspension,Olympic games,2016-07-18,2016-08-22,36 days,https://www.transfermarkt.co.uk/gabriel-jesus/profil/spieler/363205
+Tottenham Hotspur,Hugo Lloris,injury,Hamstring injury,2016-08-15,2016-09-15,32 days,https://www.transfermarkt.co.uk/hugo-lloris/profil/spieler/17965
+Tottenham Hotspur,Toby Alderweireld,injury,Knee injury,2016-10-17,2016-12-01,46 days,https://www.transfermarkt.co.uk/toby-alderweireld/profil/spieler/42710
+Tottenham Hotspur,Jan Vertonghen,injury,Ankle injury,2017-01-14,2017-02-18,36 days,https://www.transfermarkt.co.uk/jan-vertonghen/profil/spieler/43250
+Tottenham Hotspur,Jan Vertonghen,suspension,Yellow card suspension,2016-12-29,2017-01-02,5 days,https://www.transfermarkt.co.uk/jan-vertonghen/profil/spieler/43250
+Tottenham Hotspur,Eric Dier,injury,unknown injury,2016-09-18,2016-10-02,15 days,https://www.transfermarkt.co.uk/eric-dier/profil/spieler/175722
+Tottenham Hotspur,Ben Davies,injury,Ankle injury,2016-10-31,2016-12-12,43 days,https://www.transfermarkt.co.uk/ben-davies/profil/spieler/192765
+Tottenham Hotspur,Federico Fazio,injury,Calf problems,2016-11-02,2016-11-05,4 days,https://www.transfermarkt.co.uk/federico-fazio/profil/spieler/45314
+Tottenham Hotspur,Kevin Wimmer,injury,Hamstring injury,2016-08-10,2016-08-20,11 days,https://www.transfermarkt.co.uk/kevin-wimmer/profil/spieler/122675
+Tottenham Hotspur,Cameron Carter-Vickers,injury,Knee injury,2017-04-13,2017-04-30,18 days,https://www.transfermarkt.co.uk/cameron-carter-vickers/profil/spieler/341049
+Tottenham Hotspur,Danny Rose,injury,Knee medial ligament tear,2017-01-30,2017-10-17,261 days,https://www.transfermarkt.co.uk/danny-rose/profil/spieler/50174
+Tottenham Hotspur,Danny Rose,injury,Hamstring injury,2016-09-05,2016-10-03,29 days,https://www.transfermarkt.co.uk/danny-rose/profil/spieler/50174
+Tottenham Hotspur,Danny Rose,suspension,Yellow card suspension,2016-11-20,2016-11-27,8 days,https://www.transfermarkt.co.uk/danny-rose/profil/spieler/50174
+Tottenham Hotspur,Kyle Walker,injury,Ankle injury,2017-05-15,2017-06-01,18 days,https://www.transfermarkt.co.uk/kyle-walker/profil/spieler/95424
+Tottenham Hotspur,Kyle Walker,suspension,Yellow card suspension,2016-12-29,2017-01-02,5 days,https://www.transfermarkt.co.uk/kyle-walker/profil/spieler/95424
+Tottenham Hotspur,Nabil Bentaleb,injury,Stomach flu,2017-02-13,2017-02-16,4 days,https://www.transfermarkt.co.uk/nabil-bentaleb/profil/spieler/245537
+Tottenham Hotspur,Nabil Bentaleb,injury,influenza,2016-12-08,2016-12-08,1 days,https://www.transfermarkt.co.uk/nabil-bentaleb/profil/spieler/245537
+Tottenham Hotspur,Harry Winks,injury,Ankle injury,2017-04-03,2017-06-01,60 days,https://www.transfermarkt.co.uk/harry-winks/profil/spieler/249126
+Tottenham Hotspur,Moussa Sissoko,suspension,Suspension through sports court,2016-10-24,2016-11-07,15 days,https://www.transfermarkt.co.uk/moussa-sissoko/profil/spieler/46001
+Tottenham Hotspur,Mousa Dembélé,injury,unknown injury,2016-09-18,2016-10-02,15 days,https://www.transfermarkt.co.uk/mousa-dembele/profil/spieler/19368
+Tottenham Hotspur,Mousa Dembélé,suspension,Suspension through sports court,2016-05-06,2016-09-11,129 days,https://www.transfermarkt.co.uk/mousa-dembele/profil/spieler/19368
+Tottenham Hotspur,Ryan Mason,injury,Skull fracture,2017-01-22,2018-02-13,388 days,https://www.transfermarkt.co.uk/ryan-mason/profil/spieler/61834
+Tottenham Hotspur,Dele Alli,injury,Knee injury,2016-11-07,2016-11-17,11 days,https://www.transfermarkt.co.uk/dele-alli/profil/spieler/207929
+Tottenham Hotspur,Heung-min Son,suspension,Olympic games,2016-07-18,2016-08-21,35 days,https://www.transfermarkt.co.uk/heung-min-son/profil/spieler/91845
+Tottenham Hotspur,Erik Lamela,injury,Hip injury,2016-10-24,2017-11-16,389 days,https://www.transfermarkt.co.uk/erik-lamela/profil/spieler/111630
+Tottenham Hotspur,Marcus Edwards,injury,Ankle injury,2016-10-15,2017-01-31,109 days,https://www.transfermarkt.co.uk/marcus-edwards/profil/spieler/314367
+Tottenham Hotspur,Harry Kane,injury,Ankle injury,2017-03-13,2017-04-06,25 days,https://www.transfermarkt.co.uk/harry-kane/profil/spieler/132098
+Tottenham Hotspur,Harry Kane,injury,Ankle injury,2016-09-19,2016-11-07,50 days,https://www.transfermarkt.co.uk/harry-kane/profil/spieler/132098
+Tottenham Hotspur,Vincent Janssen,injury,Ankle injury,2016-12-01,2016-12-28,28 days,https://www.transfermarkt.co.uk/vincent-janssen/profil/spieler/207015
+Tottenham Hotspur,Vincent Janssen,injury,concussion,2016-11-10,2016-11-16,7 days,https://www.transfermarkt.co.uk/vincent-janssen/profil/spieler/207015
+Arsenal FC,David Ospina,injury,Back injury,2017-04-03,2017-04-27,25 days,https://www.transfermarkt.co.uk/david-ospina/profil/spieler/73396
+Arsenal FC,Petr Cech,injury,Calf strain,2017-03-18,2017-04-17,31 days,https://www.transfermarkt.co.uk/petr-cech/profil/spieler/5658
+Arsenal FC,Shkodran Mustafi,injury,concussion,2017-05-15,2017-06-08,25 days,https://www.transfermarkt.co.uk/shkodran-mustafi/profil/spieler/88590
+Arsenal FC,Shkodran Mustafi,injury,Thigh problems,2017-04-17,2017-05-04,18 days,https://www.transfermarkt.co.uk/shkodran-mustafi/profil/spieler/88590
+Arsenal FC,Shkodran Mustafi,injury,Hamstring injury,2016-12-12,2017-01-02,22 days,https://www.transfermarkt.co.uk/shkodran-mustafi/profil/spieler/88590
+Arsenal FC,Laurent Koscielny,injury,Thigh problems,2017-02-16,2017-03-02,15 days,https://www.transfermarkt.co.uk/laurent-koscielny/profil/spieler/76277
+Arsenal FC,Calum Chambers,injury,Foot injury,2017-02-20,2017-04-17,57 days,https://www.transfermarkt.co.uk/calum-chambers/profil/spieler/215118
+Arsenal FC,Calum Chambers,injury,Foot injury,2017-01-26,2017-02-02,8 days,https://www.transfermarkt.co.uk/calum-chambers/profil/spieler/215118
+Arsenal FC,Gabriel Paulista,injury,Knee injury,2017-05-21,2017-09-06,109 days,https://www.transfermarkt.co.uk/gabriel-paulista/profil/spieler/149498
+Arsenal FC,Gabriel Paulista,injury,Ankle injury,2016-08-08,2016-09-19,43 days,https://www.transfermarkt.co.uk/gabriel-paulista/profil/spieler/149498
+Arsenal FC,Per Mertesacker,injury,Knee injury,2016-07-21,2017-01-27,191 days,https://www.transfermarkt.co.uk/per-mertesacker/profil/spieler/6710
+Arsenal FC,Nacho Monreal,injury,Thigh problems,2016-10-27,2016-11-07,12 days,https://www.transfermarkt.co.uk/nacho-monreal/profil/spieler/43003
+Arsenal FC,Kieran Gibbs,injury,Knee injury,2016-12-26,2017-01-16,22 days,https://www.transfermarkt.co.uk/kieran-gibbs/profil/spieler/44792
+Arsenal FC,Héctor Bellerín,injury,Ankle injury,2017-01-06,2017-01-16,11 days,https://www.transfermarkt.co.uk/hector-bellerin/profil/spieler/191217
+Arsenal FC,Héctor Bellerín,injury,Ankle injury,2016-11-07,2016-12-10,34 days,https://www.transfermarkt.co.uk/hector-bellerin/profil/spieler/191217
+Arsenal FC,Carl Jenkinson,injury,Torn knee ligaments,2016-01-23,2016-10-13,265 days,https://www.transfermarkt.co.uk/carl-jenkinson/profil/spieler/126321
+Arsenal FC,Mathieu Debuchy,injury,Hamstring injury,2016-11-27,2017-01-27,62 days,https://www.transfermarkt.co.uk/mathieu-debuchy/profil/spieler/27306
+Arsenal FC,Granit Xhaka,injury,Ankle injury,2017-04-30,2017-05-10,11 days,https://www.transfermarkt.co.uk/granit-xhaka/profil/spieler/111455
+Arsenal FC,Granit Xhaka,suspension,Red card suspension,2017-01-23,2017-02-13,22 days,https://www.transfermarkt.co.uk/granit-xhaka/profil/spieler/111455
+Arsenal FC,Granit Xhaka,suspension,Red card suspension,2016-10-17,2016-10-31,15 days,https://www.transfermarkt.co.uk/granit-xhaka/profil/spieler/111455
+Arsenal FC,Francis Coquelin,injury,Hamstring injury,2017-01-03,2017-01-16,14 days,https://www.transfermarkt.co.uk/francis-coquelin/profil/spieler/74869
+Arsenal FC,Francis Coquelin,injury,Knee injury,2016-09-27,2016-10-17,21 days,https://www.transfermarkt.co.uk/francis-coquelin/profil/spieler/74869
+Arsenal FC,Mohamed Elneny,injury,Calf strain,2017-01-26,2017-02-02,8 days,https://www.transfermarkt.co.uk/mohamed-elneny/profil/spieler/160438
+Arsenal FC,Mohamed Elneny,suspension,Called up to national team,2017-01-02,2017-02-05,35 days,https://www.transfermarkt.co.uk/mohamed-elneny/profil/spieler/160438
+Arsenal FC,Aaron Ramsey,injury,Calf injury,2017-01-30,2017-03-02,32 days,https://www.transfermarkt.co.uk/aaron-ramsey/profil/spieler/50057
+Arsenal FC,Aaron Ramsey,injury,Hamstring injury,2016-12-05,2016-12-26,22 days,https://www.transfermarkt.co.uk/aaron-ramsey/profil/spieler/50057
+Arsenal FC,Aaron Ramsey,injury,Hamstring injury,2016-08-15,2016-10-24,71 days,https://www.transfermarkt.co.uk/aaron-ramsey/profil/spieler/50057
+Arsenal FC,Alex Oxlade-Chamberlain,injury,Hamstring injury,2017-05-10,2017-05-27,18 days,https://www.transfermarkt.co.uk/alex-oxlade-chamberlain/profil/spieler/143424
+Arsenal FC,Jack Wilshere,injury,Hairline fracture in the fibula,2017-04-16,2017-08-06,113 days,https://www.transfermarkt.co.uk/jack-wilshere/profil/spieler/74223
+Arsenal FC,Santi Cazorla,injury,Ankle surgery,2016-10-20,2018-06-30,619 days,https://www.transfermarkt.co.uk/santi-cazorla/profil/spieler/15799
+Arsenal FC,Mesut Özil,injury,muscular problems,2017-03-13,2017-03-23,11 days,https://www.transfermarkt.co.uk/mesut-ozil/profil/spieler/35664
+Arsenal FC,Mesut Özil,injury,Ill,2017-02-27,2017-03-06,8 days,https://www.transfermarkt.co.uk/mesut-ozil/profil/spieler/35664
+Arsenal FC,Mesut Özil,injury,Ill,2016-12-29,2017-01-09,12 days,https://www.transfermarkt.co.uk/mesut-ozil/profil/spieler/35664
+Arsenal FC,Alex Iwobi,injury,Hamstring strain,2016-08-14,2016-09-10,28 days,https://www.transfermarkt.co.uk/alex-iwobi/profil/spieler/242631
+Arsenal FC,Stephy Mavididi,injury,Torn thigh muscle,2017-02-25,2017-05-25,90 days,https://www.transfermarkt.co.uk/stephy-mavididi/profil/spieler/340328
+Arsenal FC,Theo Walcott,injury,Calf strain,2016-12-23,2017-01-27,36 days,https://www.transfermarkt.co.uk/theo-walcott/profil/spieler/33713
+Arsenal FC,Theo Walcott,injury,Hamstring injury,2016-10-25,2016-11-06,13 days,https://www.transfermarkt.co.uk/theo-walcott/profil/spieler/33713
+Arsenal FC,Joel Campbell,injury,Adductor injury,2017-02-01,2017-02-22,22 days,https://www.transfermarkt.co.uk/joel-campbell/profil/spieler/131248
+Arsenal FC,Alexis Sánchez,injury,Thigh problems,2016-11-08,2016-11-14,7 days,https://www.transfermarkt.co.uk/alexis-sanchez/profil/spieler/40433
+Arsenal FC,Olivier Giroud,injury,Thigh problems,2016-11-27,2016-12-05,9 days,https://www.transfermarkt.co.uk/olivier-giroud/profil/spieler/82442
+Arsenal FC,Olivier Giroud,injury,Toe injury,2016-09-24,2016-10-16,23 days,https://www.transfermarkt.co.uk/olivier-giroud/profil/spieler/82442
+Arsenal FC,Olivier Giroud,injury,Toe injury,2016-09-13,2016-09-21,9 days,https://www.transfermarkt.co.uk/olivier-giroud/profil/spieler/82442
+Arsenal FC,Lucas Pérez,injury,Hamstring strain,2017-03-16,2017-05-01,47 days,https://www.transfermarkt.co.uk/lucas-perez/profil/spieler/73185
+Arsenal FC,Lucas Pérez,injury,Ankle injury,2016-10-25,2016-11-30,37 days,https://www.transfermarkt.co.uk/lucas-perez/profil/spieler/73185
+Arsenal FC,Danny Welbeck,injury,Toe injury,2017-04-17,2017-04-20,4 days,https://www.transfermarkt.co.uk/danny-welbeck/profil/spieler/67063
+Arsenal FC,Danny Welbeck,injury,Cartilage damage,2016-05-09,2017-01-02,239 days,https://www.transfermarkt.co.uk/danny-welbeck/profil/spieler/67063
+Arsenal FC,Chuba Akpom,injury,Back injury,2016-09-28,2017-01-07,102 days,https://www.transfermarkt.co.uk/chuba-akpom/profil/spieler/197642
+Arsenal FC,Yaya Sanogo,injury,Calf injury,2016-04-24,2017-03-01,312 days,https://www.transfermarkt.co.uk/yaya-sanogo/profil/spieler/127194
+Manchester United,Eric Bailly,injury,Knee injury,2016-10-24,2016-12-01,39 days,https://www.transfermarkt.co.uk/eric-bailly/profil/spieler/286384
+Manchester United,Marcos Rojo,injury,Cruciate ligament tear,2017-04-21,2017-11-15,209 days,https://www.transfermarkt.co.uk/marcos-rojo/profil/spieler/93176
+Manchester United,Chris Smalling,injury,Knee injury,2017-03-23,2017-05-01,40 days,https://www.transfermarkt.co.uk/chris-smalling/profil/spieler/103427
+Manchester United,Chris Smalling,injury,Foot injury,2016-10-24,2016-12-15,53 days,https://www.transfermarkt.co.uk/chris-smalling/profil/spieler/103427
+Manchester United,Chris Smalling,suspension,Indirect card suspension,2016-05-22,2016-08-15,86 days,https://www.transfermarkt.co.uk/chris-smalling/profil/spieler/103427
+Manchester United,Phil Jones,injury,Toe injury,2017-03-20,2017-05-04,46 days,https://www.transfermarkt.co.uk/phil-jones/profil/spieler/117996
+Manchester United,Phil Jones,injury,Knee injury,2016-09-05,2016-11-03,60 days,https://www.transfermarkt.co.uk/phil-jones/profil/spieler/117996
+Manchester United,Luke Shaw,injury,Foot injury,2017-04-30,2017-11-06,191 days,https://www.transfermarkt.co.uk/luke-shaw/profil/spieler/183288
+Manchester United,Luke Shaw,injury,Foot injury,2017-04-30,2017-08-20,113 days,https://www.transfermarkt.co.uk/luke-shaw/profil/spieler/183288
+Manchester United,Luke Shaw,injury,Groin injury,2016-10-30,2017-01-02,65 days,https://www.transfermarkt.co.uk/luke-shaw/profil/spieler/183288
+Manchester United,Cameron Borthwick-Jackson,injury,Groin injury,2016-07-19,2016-08-14,27 days,https://www.transfermarkt.co.uk/cameron-borthwick-jackson/profil/spieler/258879
+Manchester United,Antonio Valencia,injury,Broken arm,2016-10-27,2016-11-14,19 days,https://www.transfermarkt.co.uk/antonio-valencia/profil/spieler/33544
+Manchester United,Ashley Young,injury,muscular problems,2017-05-04,2017-08-20,109 days,https://www.transfermarkt.co.uk/ashley-young/profil/spieler/14086
+Manchester United,Ashley Young,injury,Knock,2017-04-03,2017-04-13,11 days,https://www.transfermarkt.co.uk/ashley-young/profil/spieler/14086
+Manchester United,Timothy Fosu-Mensah,injury,Shoulder injury,2017-04-27,2017-05-20,24 days,https://www.transfermarkt.co.uk/timothy-fosu-mensah/profil/spieler/315131
+Manchester United,Guillermo Varela,injury,Ankle problems,2017-03-27,2017-04-13,18 days,https://www.transfermarkt.co.uk/guillermo-varela/profil/spieler/188862
+Manchester United,Guillermo Varela,injury,Remove screws/nails,2017-03-09,2017-03-23,15 days,https://www.transfermarkt.co.uk/guillermo-varela/profil/spieler/188862
+Manchester United,Guillermo Varela,injury,Ankle problems,2017-03-02,2017-03-09,8 days,https://www.transfermarkt.co.uk/guillermo-varela/profil/spieler/188862
+Manchester United,Guillermo Varela,injury,Fitness,2017-01-16,2017-02-23,39 days,https://www.transfermarkt.co.uk/guillermo-varela/profil/spieler/188862
+Manchester United,Guillermo Varela,injury,Torn ankle ligaments,2016-09-12,2017-01-16,127 days,https://www.transfermarkt.co.uk/guillermo-varela/profil/spieler/188862
+Manchester United,Morgan Schneiderlin,injury,Knock,2016-10-15,2016-10-19,5 days,https://www.transfermarkt.co.uk/morgan-schneiderlin/profil/spieler/56818
+Manchester United,Paul Pogba,injury,Hamstring injury,2017-03-16,2017-04-03,19 days,https://www.transfermarkt.co.uk/paul-pogba/profil/spieler/122153
+Manchester United,Paul Pogba,suspension,Yellow card suspension,2016-05-22,2016-08-15,86 days,https://www.transfermarkt.co.uk/paul-pogba/profil/spieler/122153
+Manchester United,Henrikh Mkhitaryan,injury,muscular problems,2017-02-23,2017-03-06,12 days,https://www.transfermarkt.co.uk/henrikh-mkhitaryan/profil/spieler/55735
+Manchester United,Henrikh Mkhitaryan,injury,Muscle strain,2016-09-15,2016-10-17,33 days,https://www.transfermarkt.co.uk/henrikh-mkhitaryan/profil/spieler/55735
+Manchester United,Ander Herrera,suspension,Suspension through sports court,2017-03-20,2017-04-01,13 days,https://www.transfermarkt.co.uk/ander-herrera/profil/spieler/99343
+Manchester United,Ander Herrera,suspension,Indirect card suspension,2017-03-16,2017-03-20,5 days,https://www.transfermarkt.co.uk/ander-herrera/profil/spieler/99343
+Manchester United,Ander Herrera,suspension,Indirect card suspension,2017-03-14,2017-03-19,6 days,https://www.transfermarkt.co.uk/ander-herrera/profil/spieler/99343
+Manchester United,Ander Herrera,suspension,Indirect card suspension,2016-10-31,2016-11-07,8 days,https://www.transfermarkt.co.uk/ander-herrera/profil/spieler/99343
+Manchester United,Marouane Fellaini,suspension,Red card suspension,2017-04-27,2017-05-14,18 days,https://www.transfermarkt.co.uk/marouane-fellaini/profil/spieler/39679
+Manchester United,Bastian Schweinsteiger,injury,Muscle injury,2017-03-06,2017-03-15,10 days,https://www.transfermarkt.co.uk/bastian-schweinsteiger/profil/spieler/2514
+Manchester United,Juan Mata,injury,Groin surgery,2017-03-30,2017-04-28,30 days,https://www.transfermarkt.co.uk/juan-mata/profil/spieler/44068
+Manchester United,Jesse Lingard,injury,Ankle injury,2016-08-07,2016-09-09,34 days,https://www.transfermarkt.co.uk/jesse-lingard/profil/spieler/141660
+Manchester United,Adnan Januzaj,injury,Ankle injury,2016-09-24,2016-11-05,43 days,https://www.transfermarkt.co.uk/adnan-januzaj/profil/spieler/177847
+Manchester United,Anthony Martial,injury,Head injury,2016-09-19,2016-09-26,8 days,https://www.transfermarkt.co.uk/anthony-martial/profil/spieler/182877
+Manchester United,Wayne Rooney,injury,Ankle injury,2017-04-03,2017-04-20,18 days,https://www.transfermarkt.co.uk/wayne-rooney/profil/spieler/3332
+Manchester United,Wayne Rooney,injury,Knee injury,2017-03-13,2017-03-30,18 days,https://www.transfermarkt.co.uk/wayne-rooney/profil/spieler/3332
+Manchester United,Wayne Rooney,injury,Hamstring injury,2016-12-26,2017-01-05,11 days,https://www.transfermarkt.co.uk/wayne-rooney/profil/spieler/3332
+Manchester United,Wayne Rooney,injury,Hamstring strain,2016-10-20,2016-10-27,8 days,https://www.transfermarkt.co.uk/wayne-rooney/profil/spieler/3332
+Manchester United,Wayne Rooney,suspension,Yellow card suspension,2016-12-01,2016-12-05,5 days,https://www.transfermarkt.co.uk/wayne-rooney/profil/spieler/3332
+Manchester United,Zlatan Ibrahimović,injury,Cruciate ligament injury,2017-04-20,2017-11-16,211 days,https://www.transfermarkt.co.uk/zlatan-ibrahimovic/profil/spieler/3455
+Manchester United,Zlatan Ibrahimović,suspension,Suspension through sports court,2017-03-09,2017-04-02,25 days,https://www.transfermarkt.co.uk/zlatan-ibrahimovic/profil/spieler/3455
+Manchester United,Zlatan Ibrahimović,suspension,Yellow card suspension,2016-11-07,2016-11-21,15 days,https://www.transfermarkt.co.uk/zlatan-ibrahimovic/profil/spieler/3455
+Manchester United,James Wilson,injury,Cruciate ligament tear,2016-10-17,2017-08-25,313 days,https://www.transfermarkt.co.uk/james-wilson/profil/spieler/214104
+Liverpool FC,Loris Karius,injury,Broken hand,2016-07-28,2016-09-08,43 days,https://www.transfermarkt.co.uk/loris-karius/profil/spieler/85864
+Liverpool FC,Ádám Bogdán,injury,Cruciate ligament tear,2016-11-21,2018-07-01,588 days,https://www.transfermarkt.co.uk/adam-bogdan/profil/spieler/55247
+Liverpool FC,Joel Matip,injury,Ankle injury,2016-12-12,2017-01-09,29 days,https://www.transfermarkt.co.uk/joel-matip/profil/spieler/82105
+Liverpool FC,Joel Matip,injury,Ankle injury,2016-11-28,2016-12-05,8 days,https://www.transfermarkt.co.uk/joel-matip/profil/spieler/82105
+Liverpool FC,Dejan Lovren,injury,Eye injury,2016-09-09,2016-09-16,8 days,https://www.transfermarkt.co.uk/dejan-lovren/profil/spieler/37838
+Liverpool FC,Mamadou Sakho,injury,Ligament injury,2017-04-26,2017-09-18,146 days,https://www.transfermarkt.co.uk/mamadou-sakho/profil/spieler/47713
+Liverpool FC,Mamadou Sakho,injury,Achilles tendon problems,2016-07-12,2016-08-23,43 days,https://www.transfermarkt.co.uk/mamadou-sakho/profil/spieler/47713
+Liverpool FC,Joe Gomez,injury,Achilles tendon problems,2016-07-15,2016-11-20,129 days,https://www.transfermarkt.co.uk/joe-gomez/profil/spieler/256178
+Liverpool FC,Ragnar Klavan,injury,Knee injury,2017-04-15,2017-04-21,7 days,https://www.transfermarkt.co.uk/ragnar-klavan/profil/spieler/26669
+Liverpool FC,Ragnar Klavan,injury,Knee injury,2016-08-23,2016-09-05,14 days,https://www.transfermarkt.co.uk/ragnar-klavan/profil/spieler/26669
+Liverpool FC,Andre Wisdom,injury,Adductor pain,2017-05-12,2017-05-19,8 days,https://www.transfermarkt.co.uk/andre-wisdom/profil/spieler/128912
+Liverpool FC,Andre Wisdom,injury,Torn thigh muscle,2016-09-15,2016-10-06,22 days,https://www.transfermarkt.co.uk/andre-wisdom/profil/spieler/128912
+Liverpool FC,Emre Can,injury,Knee injury,2016-12-09,2016-12-19,11 days,https://www.transfermarkt.co.uk/emre-can/profil/spieler/119296
+Liverpool FC,Emre Can,injury,Capsular injury,2016-08-22,2016-09-20,30 days,https://www.transfermarkt.co.uk/emre-can/profil/spieler/119296
+Liverpool FC,Lucas Leiva,injury,Hamstring injury,2016-07-20,2016-08-23,35 days,https://www.transfermarkt.co.uk/lucas-leiva/profil/spieler/41414
+Liverpool FC,Marko Grujić,injury,Hamstring injury,2016-12-01,2017-02-27,89 days,https://www.transfermarkt.co.uk/marko-grujic/profil/spieler/222813
+Liverpool FC,Georginio Wijnaldum,injury,Hamstring injury,2016-10-10,2016-10-24,15 days,https://www.transfermarkt.co.uk/georginio-wijnaldum/profil/spieler/49499
+Liverpool FC,Georginio Wijnaldum,injury,Knee injury,2016-09-15,2016-09-26,12 days,https://www.transfermarkt.co.uk/georginio-wijnaldum/profil/spieler/49499
+Liverpool FC,Jordan Henderson,injury,Foot injury,2017-02-27,2017-07-06,130 days,https://www.transfermarkt.co.uk/jordan-henderson/profil/spieler/61651
+Liverpool FC,James Milner,injury,Foot injury,2016-08-07,2016-08-19,13 days,https://www.transfermarkt.co.uk/james-milner/profil/spieler/3333
+Liverpool FC,Ovie Ejaria,injury,Ankle injury,2017-01-30,2017-04-19,80 days,https://www.transfermarkt.co.uk/ovie-ejaria/profil/spieler/337284
+Liverpool FC,Philippe Coutinho,injury,Ankle injury,2016-11-27,2017-01-09,44 days,https://www.transfermarkt.co.uk/philippe-coutinho/profil/spieler/80444
+Liverpool FC,Adam Lallana,injury,Hamstring injury,2017-03-27,2017-04-27,32 days,https://www.transfermarkt.co.uk/adam-lallana/profil/spieler/43530
+Liverpool FC,Adam Lallana,injury,minor knock,2016-11-17,2016-12-01,15 days,https://www.transfermarkt.co.uk/adam-lallana/profil/spieler/43530
+Liverpool FC,Adam Lallana,injury,Groin strain,2016-09-29,2016-10-17,19 days,https://www.transfermarkt.co.uk/adam-lallana/profil/spieler/43530
+Liverpool FC,Sadio Mané,injury,Knee injury,2017-04-03,2017-06-29,88 days,https://www.transfermarkt.co.uk/sadio-mane/profil/spieler/200512
+Liverpool FC,Sadio Mané,injury,Shoulder injury,2016-08-15,2016-08-22,8 days,https://www.transfermarkt.co.uk/sadio-mane/profil/spieler/200512
+Liverpool FC,Sadio Mané,suspension,Called up to national team,2017-01-03,2017-01-29,27 days,https://www.transfermarkt.co.uk/sadio-mane/profil/spieler/200512
+Liverpool FC,Lazar Markovic,injury,Ankle injury,2017-05-06,2017-07-05,61 days,https://www.transfermarkt.co.uk/lazar-markovic/profil/spieler/144303
+Liverpool FC,Lazar Markovic,injury,Knock,2016-12-08,2016-12-20,13 days,https://www.transfermarkt.co.uk/lazar-markovic/profil/spieler/144303
+Liverpool FC,Sheyi Ojo,injury,Back problems,2016-08-05,2016-10-31,88 days,https://www.transfermarkt.co.uk/sheyi-ojo/profil/spieler/236510
+Liverpool FC,Roberto Firmino,injury,muscular problems,2017-05-12,2017-05-18,7 days,https://www.transfermarkt.co.uk/roberto-firmino/profil/spieler/131789
+Liverpool FC,Roberto Firmino,injury,Groin strain,2016-09-11,2016-09-18,8 days,https://www.transfermarkt.co.uk/roberto-firmino/profil/spieler/131789
+Liverpool FC,Daniel Sturridge,injury,Hip injury,2017-04-22,2017-04-26,5 days,https://www.transfermarkt.co.uk/daniel-sturridge/profil/spieler/47082
+Liverpool FC,Daniel Sturridge,injury,Hip problems,2017-03-02,2017-03-29,28 days,https://www.transfermarkt.co.uk/daniel-sturridge/profil/spieler/47082
+Liverpool FC,Daniel Sturridge,injury,Ill,2017-02-17,2017-03-01,13 days,https://www.transfermarkt.co.uk/daniel-sturridge/profil/spieler/47082
+Liverpool FC,Daniel Sturridge,injury,Calf injury,2016-11-23,2016-12-18,26 days,https://www.transfermarkt.co.uk/daniel-sturridge/profil/spieler/47082
+Liverpool FC,Daniel Sturridge,injury,Hip injury,2016-08-05,2016-08-19,15 days,https://www.transfermarkt.co.uk/daniel-sturridge/profil/spieler/47082
+Liverpool FC,Danny Ings,injury,Knee surgery,2016-10-26,2017-08-10,289 days,https://www.transfermarkt.co.uk/danny-ings/profil/spieler/134294
+Everton FC,Maarten Stekelenburg,injury,Leg injury,2016-12-19,2017-01-13,26 days,https://www.transfermarkt.co.uk/maarten-stekelenburg/profil/spieler/4311
+Everton FC,Maarten Stekelenburg,injury,Foot injury,2016-10-28,2016-11-02,6 days,https://www.transfermarkt.co.uk/maarten-stekelenburg/profil/spieler/4311
+Everton FC,Ramiro Funes Mori,injury,Meniscus injury,2017-03-29,2017-07-17,111 days,https://www.transfermarkt.co.uk/ramiro-funes-mori/profil/spieler/11111
+Everton FC,Brendan Galloway,injury,bruise,2017-01-17,2017-02-04,19 days,https://www.transfermarkt.co.uk/brendan-galloway/profil/spieler/208244
+Everton FC,Phil Jagielka,injury,Hamstring strain,2016-10-07,2016-10-14,8 days,https://www.transfermarkt.co.uk/phil-jagielka/profil/spieler/13520
+Everton FC,Phil Jagielka,suspension,Indirect card suspension,2016-12-14,2016-12-20,7 days,https://www.transfermarkt.co.uk/phil-jagielka/profil/spieler/13520
+Everton FC,Tyias Browning,injury,Knee surgery,2015-11-06,2016-11-08,369 days,https://www.transfermarkt.co.uk/tyias-browning/profil/spieler/156934
+Everton FC,Matthew Pennington,injury,Hamstring injury,2016-07-30,2017-01-07,162 days,https://www.transfermarkt.co.uk/matthew-pennington/profil/spieler/220755
+Everton FC,Bryan Oviedo,injury,Hamstring injury,2017-04-09,2017-05-13,35 days,https://www.transfermarkt.co.uk/bryan-oviedo/profil/spieler/124983
+Everton FC,Séamus Coleman,injury,Broken leg,2017-03-27,2018-01-13,293 days,https://www.transfermarkt.co.uk/seamus-coleman/profil/spieler/68390
+Everton FC,Séamus Coleman,injury,Ankle injury,2016-08-11,2016-09-05,26 days,https://www.transfermarkt.co.uk/seamus-coleman/profil/spieler/68390
+Everton FC,Morgan Schneiderlin,injury,Knock,2016-10-15,2016-10-19,5 days,https://www.transfermarkt.co.uk/morgan-schneiderlin/profil/spieler/56818
+Everton FC,Idrissa Gueye,suspension,Called up to national team,2017-01-02,2017-01-30,29 days,https://www.transfermarkt.co.uk/idrissa-gueye/profil/spieler/126665
+Everton FC,Idrissa Gueye,suspension,Yellow card suspension,2016-10-31,2016-11-07,8 days,https://www.transfermarkt.co.uk/idrissa-gueye/profil/spieler/126665
+Everton FC,Muhamed Besic,injury,Cruciate ligament injury,2016-08-03,2017-03-18,228 days,https://www.transfermarkt.co.uk/muhamed-besic/profil/spieler/93905
+Everton FC,Gareth Barry,suspension,Yellow card suspension,2016-11-06,2016-11-20,15 days,https://www.transfermarkt.co.uk/gareth-barry/profil/spieler/3291
+Everton FC,James McCarthy,injury,Hamstring injury,2017-03-24,2017-06-30,99 days,https://www.transfermarkt.co.uk/james-mccarthy/profil/spieler/45333
+Everton FC,James McCarthy,injury,Hamstring injury,2016-12-19,2017-01-07,20 days,https://www.transfermarkt.co.uk/james-mccarthy/profil/spieler/45333
+Everton FC,James McCarthy,injury,Groin strain,2016-08-23,2016-10-05,44 days,https://www.transfermarkt.co.uk/james-mccarthy/profil/spieler/45333
+Everton FC,Darron Gibson,injury,Groin strain,2016-08-22,2016-10-13,53 days,https://www.transfermarkt.co.uk/darron-gibson/profil/spieler/42413
+Everton FC,Yannick Bolasie,injury,Cruciate ligament tear,2016-12-05,2017-12-10,371 days,https://www.transfermarkt.co.uk/yannick-bolasie/profil/spieler/75471
+Everton FC,Shani Tarashaj,injury,Meniscus tear,2017-05-09,2017-10-01,146 days,https://www.transfermarkt.co.uk/shani-tarashaj/profil/spieler/184381
+Everton FC,Shani Tarashaj,injury,muscular problems,2017-03-09,2017-03-23,15 days,https://www.transfermarkt.co.uk/shani-tarashaj/profil/spieler/184381
+Everton FC,Shani Tarashaj,injury,Tonsillitis,2016-11-04,2016-12-07,34 days,https://www.transfermarkt.co.uk/shani-tarashaj/profil/spieler/184381
+Everton FC,Dominic Calvert-Lewin,injury,Ankle injury,2017-01-02,2017-02-25,55 days,https://www.transfermarkt.co.uk/dominic-calvert-lewin/profil/spieler/306024
+Everton FC,Arouna Koné,injury,Knee injury,2016-10-28,2016-11-03,7 days,https://www.transfermarkt.co.uk/arouna-kone/profil/spieler/8552
+West Ham United,Winston Reid,injury,Adductor pain,2017-03-18,2017-04-20,34 days,https://www.transfermarkt.co.uk/winston-reid/profil/spieler/37526
+West Ham United,Winston Reid,suspension,Indirect card suspension,2016-11-20,2016-11-28,9 days,https://www.transfermarkt.co.uk/winston-reid/profil/spieler/37526
+West Ham United,Winston Reid,suspension,Yellow card suspension,2016-10-31,2016-11-06,7 days,https://www.transfermarkt.co.uk/winston-reid/profil/spieler/37526
+West Ham United,Angelo Ogbonna,injury,Knee surgery,2017-01-22,2017-08-10,201 days,https://www.transfermarkt.co.uk/angelo-ogbonna/profil/spieler/48002
+West Ham United,Reece Oxford,injury,Ill,2017-02-23,2017-03-09,15 days,https://www.transfermarkt.co.uk/reece-oxford/profil/spieler/314295
+West Ham United,Reece Oxford,injury,Ankle injury,2016-10-31,2017-01-05,67 days,https://www.transfermarkt.co.uk/reece-oxford/profil/spieler/314295
+West Ham United,James Collins,injury,Knock,2016-12-05,2017-01-13,40 days,https://www.transfermarkt.co.uk/james-collins/profil/spieler/12691
+West Ham United,Doneil Henry,injury,Torn lateral knee ligament,2016-11-02,2017-12-31,425 days,https://www.transfermarkt.co.uk/doneil-henry/profil/spieler/157907
+West Ham United,Doneil Henry,injury,Knee injury,2016-07-13,2016-09-22,72 days,https://www.transfermarkt.co.uk/doneil-henry/profil/spieler/157907
+West Ham United,Aaron Cresswell,injury,Groin strain,2016-11-30,2016-12-11,12 days,https://www.transfermarkt.co.uk/aaron-cresswell/profil/spieler/92571
+West Ham United,Aaron Cresswell,injury,Knee injury,2016-07-23,2016-10-15,85 days,https://www.transfermarkt.co.uk/aaron-cresswell/profil/spieler/92571
+West Ham United,Aaron Cresswell,suspension,Indirect card suspension,2016-10-17,2016-10-24,8 days,https://www.transfermarkt.co.uk/aaron-cresswell/profil/spieler/92571
+West Ham United,Arthur Masuaku,injury,Foot injury,2017-04-29,2017-05-11,13 days,https://www.transfermarkt.co.uk/arthur-masuaku/profil/spieler/181380
+West Ham United,Arthur Masuaku,injury,Knee injury,2016-12-07,2017-02-24,80 days,https://www.transfermarkt.co.uk/arthur-masuaku/profil/spieler/181380
+West Ham United,Arthur Masuaku,injury,Knee injury,2016-09-21,2016-11-29,70 days,https://www.transfermarkt.co.uk/arthur-masuaku/profil/spieler/181380
+West Ham United,Sam Byram,injury,Hamstring injury,2016-10-01,2017-01-08,100 days,https://www.transfermarkt.co.uk/sam-byram/profil/spieler/236953
+West Ham United,Lewis Page,injury,Hamstring injury,2017-03-22,2018-03-12,356 days,https://www.transfermarkt.co.uk/lewis-page/profil/spieler/242652
+West Ham United,Álvaro Arbeloa,injury,Leg injury,2016-12-03,2017-07-01,211 days,https://www.transfermarkt.co.uk/alvaro-arbeloa/profil/spieler/28260
+West Ham United,Sofiane Feghouli,injury,Hamstring injury,2016-08-07,2016-09-10,35 days,https://www.transfermarkt.co.uk/sofiane-feghouli/profil/spieler/57162
+West Ham United,Cheikhou Kouyaté,injury,Groin strain,2016-11-30,2016-12-14,15 days,https://www.transfermarkt.co.uk/cheikhou-kouyate/profil/spieler/66934
+West Ham United,Cheikhou Kouyaté,suspension,Called up to national team,2017-01-03,2017-01-29,27 days,https://www.transfermarkt.co.uk/cheikhou-kouyate/profil/spieler/66934
+West Ham United,Håvard Nordtveit,injury,Ankle injury,2017-01-13,2017-02-06,25 days,https://www.transfermarkt.co.uk/havard-nordtveit/profil/spieler/42234
+West Ham United,Pedro Obiang,injury,Ankle injury,2017-03-18,2017-08-10,146 days,https://www.transfermarkt.co.uk/pedro-obiang/profil/spieler/101213
+West Ham United,Mark Noble,injury,surgery,2017-05-12,2017-06-30,50 days,https://www.transfermarkt.co.uk/mark-noble/profil/spieler/31835
+West Ham United,Mark Noble,suspension,Yellow card suspension,2017-04-09,2017-04-23,15 days,https://www.transfermarkt.co.uk/mark-noble/profil/spieler/31835
+West Ham United,Mark Noble,suspension,Yellow card suspension,2016-11-06,2016-11-20,15 days,https://www.transfermarkt.co.uk/mark-noble/profil/spieler/31835
+West Ham United,Dimitri Payet,injury,Knock,2016-08-16,2016-08-30,15 days,https://www.transfermarkt.co.uk/dimitri-payet/profil/spieler/37647
+West Ham United,Manuel Lanzini,injury,Bruised ribs,2016-12-19,2016-12-29,11 days,https://www.transfermarkt.co.uk/manuel-lanzini/profil/spieler/135853
+West Ham United,Manuel Lanzini,injury,Knee injury,2016-07-25,2016-09-08,46 days,https://www.transfermarkt.co.uk/manuel-lanzini/profil/spieler/135853
+West Ham United,Gökhan Töre,injury,Knee surgery,2016-12-12,2017-05-22,162 days,https://www.transfermarkt.co.uk/gokhan-tore/profil/spieler/82130
+West Ham United,Gökhan Töre,injury,Knee injury,2016-10-08,2016-12-12,66 days,https://www.transfermarkt.co.uk/gokhan-tore/profil/spieler/82130
+West Ham United,Robert Snodgrass,injury,Muscle injury,2017-01-19,2017-01-27,9 days,https://www.transfermarkt.co.uk/robert-snodgrass/profil/spieler/22614
+West Ham United,Robert Snodgrass,injury,Ankle injury,2016-10-22,2016-11-10,20 days,https://www.transfermarkt.co.uk/robert-snodgrass/profil/spieler/22614
+West Ham United,André Ayew,injury,Hamstring injury,2016-08-16,2016-10-25,71 days,https://www.transfermarkt.co.uk/andre-ayew/profil/spieler/45403
+West Ham United,André Ayew,suspension,Called up to national team,2017-01-03,2017-02-05,34 days,https://www.transfermarkt.co.uk/andre-ayew/profil/spieler/45403
+West Ham United,Michail Antonio,injury,Hamstring injury,2017-04-08,2017-08-10,125 days,https://www.transfermarkt.co.uk/michail-antonio/profil/spieler/104124
+West Ham United,Michail Antonio,injury,Hamstring injury,2017-03-18,2017-04-04,18 days,https://www.transfermarkt.co.uk/michail-antonio/profil/spieler/104124
+West Ham United,Michail Antonio,injury,Groin strain,2016-11-30,2016-12-11,12 days,https://www.transfermarkt.co.uk/michail-antonio/profil/spieler/104124
+West Ham United,Michail Antonio,suspension,Indirect card suspension,2017-02-26,2017-03-07,10 days,https://www.transfermarkt.co.uk/michail-antonio/profil/spieler/104124
+West Ham United,Simone Zaza,injury,Knee injury,2016-12-08,2017-01-02,26 days,https://www.transfermarkt.co.uk/simone-zaza/profil/spieler/96828
+West Ham United,Andy Carroll,injury,Groin injury,2017-04-15,2017-09-11,150 days,https://www.transfermarkt.co.uk/andy-carroll/profil/spieler/48066
+West Ham United,Andy Carroll,injury,Groin injury,2017-02-04,2017-03-06,31 days,https://www.transfermarkt.co.uk/andy-carroll/profil/spieler/48066
+West Ham United,Andy Carroll,injury,Knee injury,2016-08-18,2016-12-02,107 days,https://www.transfermarkt.co.uk/andy-carroll/profil/spieler/48066
+West Ham United,Diafra Sakho,injury,Back injury,2017-04-28,2017-08-10,105 days,https://www.transfermarkt.co.uk/diafra-sakho/profil/spieler/120610
+West Ham United,Diafra Sakho,injury,Back injury,2016-12-21,2017-03-18,88 days,https://www.transfermarkt.co.uk/diafra-sakho/profil/spieler/120610
+West Ham United,Diafra Sakho,injury,Hamstring injury,2016-11-27,2016-12-20,24 days,https://www.transfermarkt.co.uk/diafra-sakho/profil/spieler/120610
+West Ham United,Diafra Sakho,injury,Back injury,2016-07-05,2016-11-05,124 days,https://www.transfermarkt.co.uk/diafra-sakho/profil/spieler/120610
+West Ham United,Jonathan Calleri,suspension,Olympic games,2016-07-17,2016-08-15,30 days,https://www.transfermarkt.co.uk/jonathan-calleri/profil/spieler/284727
+Southampton FC,Fraser Forster,injury,Abdominal muscle strain,2016-11-07,2016-11-18,12 days,https://www.transfermarkt.co.uk/fraser-forster/profil/spieler/52570
+Southampton FC,Alex McCarthy,injury,Hamstring injury,2016-10-26,2017-08-13,292 days,https://www.transfermarkt.co.uk/alex-mccarthy/profil/spieler/95976
+Southampton FC,Virgil van Dijk,injury,Ankle injury,2017-01-26,2017-09-14,232 days,https://www.transfermarkt.co.uk/virgil-van-dijk/profil/spieler/139208
+Southampton FC,Virgil van Dijk,suspension,Indirect card suspension,2017-01-01,2017-01-03,3 days,https://www.transfermarkt.co.uk/virgil-van-dijk/profil/spieler/139208
+Southampton FC,Martín Cáceres,injury,Achilles tendon rupture,2016-02-01,2016-10-03,246 days,https://www.transfermarkt.co.uk/martin-caceres/profil/spieler/54935
+Southampton FC,Florin Gardoș,injury,Knee injury,2016-07-10,2016-10-13,96 days,https://www.transfermarkt.co.uk/florin-gardos/profil/spieler/57423
+Southampton FC,Ryan Bertrand,injury,Hamstring injury,2016-10-08,2016-10-28,21 days,https://www.transfermarkt.co.uk/ryan-bertrand/profil/spieler/40611
+Southampton FC,Ryan Bertrand,injury,Knee injury,2016-08-01,2016-08-27,27 days,https://www.transfermarkt.co.uk/ryan-bertrand/profil/spieler/40611
+Southampton FC,Matt Targett,injury,Hamstring injury,2016-10-16,2017-05-04,201 days,https://www.transfermarkt.co.uk/matt-targett/profil/spieler/250478
+Southampton FC,Cédric Soares,injury,Ill,2016-12-09,2016-12-18,10 days,https://www.transfermarkt.co.uk/cedric-soares/profil/spieler/112988
+Southampton FC,Cédric Soares,injury,Foot injury,2016-10-02,2016-11-19,49 days,https://www.transfermarkt.co.uk/cedric-soares/profil/spieler/112988
+Southampton FC,Jérémy Pied,injury,Knee surgery,2016-08-24,2017-04-04,224 days,https://www.transfermarkt.co.uk/jeremy-pied/profil/spieler/60583
+Southampton FC,Jordy Clasie,injury,Groin strain,2016-12-20,2017-01-01,13 days,https://www.transfermarkt.co.uk/jordy-clasie/profil/spieler/104223
+Southampton FC,Oriol Romeu,suspension,Yellow card suspension,2017-04-06,2017-04-16,11 days,https://www.transfermarkt.co.uk/oriol-romeu/profil/spieler/66100
+Southampton FC,Oriol Romeu,suspension,Yellow card suspension,2016-12-15,2016-12-19,5 days,https://www.transfermarkt.co.uk/oriol-romeu/profil/spieler/66100
+Southampton FC,Pierre-Emile Højbjerg,injury,Knock,2016-11-13,2016-11-18,6 days,https://www.transfermarkt.co.uk/pierre-emile-hojbjerg/profil/spieler/167799
+Southampton FC,James Ward-Prowse,injury,Injury to the ankle,2017-01-26,2017-01-29,4 days,https://www.transfermarkt.co.uk/james-ward-prowse/profil/spieler/181579
+Southampton FC,Jake Hesketh,injury,Ankle injury,2016-10-14,2017-02-19,129 days,https://www.transfermarkt.co.uk/jake-hesketh/profil/spieler/315185
+Southampton FC,Sofiane Boufal,injury,Knee injury,2017-01-09,2017-01-30,22 days,https://www.transfermarkt.co.uk/sofiane-boufal/profil/spieler/232271
+Southampton FC,Sofiane Boufal,injury,Knee injury,2016-09-05,2016-10-03,29 days,https://www.transfermarkt.co.uk/sofiane-boufal/profil/spieler/232271
+Southampton FC,Sofiane Boufal,suspension,Called up to national team,2017-01-02,2017-01-09,8 days,https://www.transfermarkt.co.uk/sofiane-boufal/profil/spieler/232271
+Southampton FC,Dušan Tadić,injury,Nose injury,2016-11-12,2016-12-07,26 days,https://www.transfermarkt.co.uk/dusan-tadic/profil/spieler/36139
+Southampton FC,Nathan Redmond,suspension,Red card suspension,2016-12-29,2017-01-01,4 days,https://www.transfermarkt.co.uk/nathan-redmond/profil/spieler/129078
+Southampton FC,Manolo Gabbiadini,injury,Groin strain,2017-03-19,2017-04-15,28 days,https://www.transfermarkt.co.uk/manolo-gabbiadini/profil/spieler/112343
+Southampton FC,Manolo Gabbiadini,injury,Muscle fatigue,2016-11-14,2016-11-19,6 days,https://www.transfermarkt.co.uk/manolo-gabbiadini/profil/spieler/112343
+Southampton FC,Charlie Austin,injury,Shoulder injury,2016-12-08,2017-04-30,144 days,https://www.transfermarkt.co.uk/charlie-austin/profil/spieler/129627
+Southampton FC,Shane Long,injury,Metatarsal fracture,2017-05-13,2017-06-30,49 days,https://www.transfermarkt.co.uk/shane-long/profil/spieler/37304
+Southampton FC,Shane Long,injury,Hamstring injury,2016-10-20,2016-11-18,30 days,https://www.transfermarkt.co.uk/shane-long/profil/spieler/37304
+Leicester City,Kasper Schmeichel,injury,Broken hand,2016-11-03,2016-12-17,45 days,https://www.transfermarkt.co.uk/kasper-schmeichel/profil/spieler/16911
+Leicester City,Ben Hamer,injury,Head injury,2017-01-10,2017-06-30,172 days,https://www.transfermarkt.co.uk/ben-hamer/profil/spieler/67283
+Leicester City,Robert Huth,suspension,Yellow card suspension,2016-12-18,2016-12-27,10 days,https://www.transfermarkt.co.uk/robert-huth/profil/spieler/2998
+Leicester City,Robert Huth,suspension,Suspension through sports court,2016-05-05,2016-08-14,102 days,https://www.transfermarkt.co.uk/robert-huth/profil/spieler/2998
+Leicester City,Daniel Amartey,suspension,Called up to national team,2017-01-02,2017-02-06,36 days,https://www.transfermarkt.co.uk/daniel-amartey/profil/spieler/214056
+Leicester City,Wes Morgan,injury,Back problems,2017-03-14,2017-06-30,109 days,https://www.transfermarkt.co.uk/wes-morgan/profil/spieler/10003
+Leicester City,Molla Wagué,injury,Shoulder injury,2017-02-18,2017-07-01,134 days,https://www.transfermarkt.co.uk/molla-wague/profil/spieler/129893
+Leicester City,Molla Wagué,injury,flu,2016-10-21,2016-10-22,2 days,https://www.transfermarkt.co.uk/molla-wague/profil/spieler/129893
+Leicester City,Molla Wagué,injury,Shoulder injury,2016-05-08,2016-08-31,116 days,https://www.transfermarkt.co.uk/molla-wague/profil/spieler/129893
+Leicester City,Molla Wagué,suspension,Called up to national team,2017-01-01,2017-01-27,27 days,https://www.transfermarkt.co.uk/molla-wague/profil/spieler/129893
+Leicester City,Yohan Benalouane,injury,Knock,2016-01-25,2016-08-22,211 days,https://www.transfermarkt.co.uk/yohan-benalouane/profil/spieler/50477
+Leicester City,Marcin Wasilewski,suspension,Indirect card suspension,2016-09-20,2016-09-25,6 days,https://www.transfermarkt.co.uk/marcin-wasilewski/profil/spieler/16947
+Leicester City,Christian Fuchs,suspension,Yellow card suspension,2016-12-18,2016-12-27,10 days,https://www.transfermarkt.co.uk/christian-fuchs/profil/spieler/6636
+Leicester City,Ben Chilwell,injury,Ankle injury,2016-10-03,2016-12-05,64 days,https://www.transfermarkt.co.uk/ben-chilwell/profil/spieler/316125
+Leicester City,Nampalys Mendy,injury,Ankle injury,2017-03-09,2017-08-17,162 days,https://www.transfermarkt.co.uk/nampalys-mendy/profil/spieler/111051
+Leicester City,Nampalys Mendy,injury,Ankle injury,2016-08-20,2016-12-03,106 days,https://www.transfermarkt.co.uk/nampalys-mendy/profil/spieler/111051
+Leicester City,Danny Drinkwater,injury,Knee injury,2016-12-08,2016-12-15,8 days,https://www.transfermarkt.co.uk/danny-drinkwater/profil/spieler/73491
+Leicester City,Danny Drinkwater,suspension,Suspension through sports court,2016-11-24,2016-12-11,18 days,https://www.transfermarkt.co.uk/danny-drinkwater/profil/spieler/73491
+Leicester City,Matty James,injury,Cruciate ligament tear,2015-05-09,2016-08-14,464 days,https://www.transfermarkt.co.uk/matty-james/profil/spieler/73522
+Leicester City,Jeffrey Schlupp,injury,Hamstring injury,2017-01-28,2017-02-04,8 days,https://www.transfermarkt.co.uk/jeffrey-schlupp/profil/spieler/157506
+Leicester City,Jeffrey Schlupp,injury,Muscle strain,2016-08-18,2016-09-17,31 days,https://www.transfermarkt.co.uk/jeffrey-schlupp/profil/spieler/157506
+Leicester City,Demarai Gray,injury,Calf injury,2016-11-11,2016-11-16,6 days,https://www.transfermarkt.co.uk/demarai-gray/profil/spieler/292417
+Leicester City,Riyad Mahrez,suspension,Called up to national team,2017-01-02,2017-01-23,22 days,https://www.transfermarkt.co.uk/riyad-mahrez/profil/spieler/171424
+Leicester City,Islam Slimani,injury,Groin injury,2017-04-13,2017-04-28,16 days,https://www.transfermarkt.co.uk/islam-slimani/profil/spieler/174915
+Leicester City,Islam Slimani,injury,Groin injury,2017-01-23,2017-03-13,50 days,https://www.transfermarkt.co.uk/islam-slimani/profil/spieler/174915
+Leicester City,Islam Slimani,injury,minor knock,2016-10-27,2016-11-03,8 days,https://www.transfermarkt.co.uk/islam-slimani/profil/spieler/174915
+Leicester City,Islam Slimani,suspension,Called up to national team,2017-01-03,2017-01-24,22 days,https://www.transfermarkt.co.uk/islam-slimani/profil/spieler/174915
+Leicester City,Jamie Vardy,suspension,Red card suspension,2016-12-18,2017-01-03,17 days,https://www.transfermarkt.co.uk/jamie-vardy/profil/spieler/197838
+Leicester City,Leonardo Ulloa,injury,Hamstring strain,2017-01-07,2017-02-05,30 days,https://www.transfermarkt.co.uk/leonardo-ulloa/profil/spieler/54890
+Stoke City,Jack Butland,injury,Dislocation fracture of the ankle joint,2016-03-28,2017-04-01,370 days,https://www.transfermarkt.co.uk/jack-butland/profil/spieler/128899
+Stoke City,Ryan Shawcross,injury,Calf injury,2016-11-25,2016-12-13,19 days,https://www.transfermarkt.co.uk/ryan-shawcross/profil/spieler/45861
+Stoke City,Geoff Cameron,injury,Knee injury,2016-10-22,2017-02-25,127 days,https://www.transfermarkt.co.uk/geoff-cameron/profil/spieler/31642
+Stoke City,Philipp Wollscheid,injury,Adductor pain,2017-02-03,2017-02-14,12 days,https://www.transfermarkt.co.uk/philipp-wollscheid/profil/spieler/53173
+Stoke City,Philipp Wollscheid,injury,surgery,2017-01-04,2017-01-22,19 days,https://www.transfermarkt.co.uk/philipp-wollscheid/profil/spieler/53173
+Stoke City,Glen Johnson,injury,Hamstring injury,2016-10-03,2016-11-04,33 days,https://www.transfermarkt.co.uk/glen-johnson/profil/spieler/3881
+Stoke City,Glen Johnson,injury,Hamstring strain,2016-07-27,2016-09-18,54 days,https://www.transfermarkt.co.uk/glen-johnson/profil/spieler/3881
+Stoke City,Phil Bardsley,injury,Knee injury,2016-11-19,2016-12-27,39 days,https://www.transfermarkt.co.uk/phil-bardsley/profil/spieler/15773
+Stoke City,Phil Bardsley,suspension,Indirect card suspension,2017-03-20,2017-04-03,15 days,https://www.transfermarkt.co.uk/phil-bardsley/profil/spieler/15773
+Stoke City,Glenn Whelan,injury,Knock,2016-11-14,2016-11-26,13 days,https://www.transfermarkt.co.uk/glenn-whelan/profil/spieler/12124
+Stoke City,Joe Allen,suspension,Yellow card suspension,2016-11-20,2016-11-28,9 days,https://www.transfermarkt.co.uk/joe-allen/profil/spieler/51452
+Stoke City,Xherdan Shaqiri,injury,Muscle injury,2016-11-03,2016-11-18,16 days,https://www.transfermarkt.co.uk/xherdan-shaqiri/profil/spieler/86792
+Stoke City,Xherdan Shaqiri,injury,Calf injury,2016-08-17,2016-09-24,39 days,https://www.transfermarkt.co.uk/xherdan-shaqiri/profil/spieler/86792
+Stoke City,Ramadan Sobhi,suspension,Called up to national team,2017-01-02,2017-02-05,35 days,https://www.transfermarkt.co.uk/ramadan-sobhi/profil/spieler/312017
+Stoke City,Ibrahim Afellay,injury,Knee surgery,2017-04-05,2017-09-22,171 days,https://www.transfermarkt.co.uk/ibrahim-afellay/profil/spieler/15760
+Stoke City,Ibrahim Afellay,injury,Knee injury,2016-04-22,2016-12-12,235 days,https://www.transfermarkt.co.uk/ibrahim-afellay/profil/spieler/15760
+Stoke City,Stephen Ireland,injury,Broken leg,2016-05-09,2017-12-31,602 days,https://www.transfermarkt.co.uk/stephen-ireland/profil/spieler/34838
+Stoke City,Jonathan Walters,injury,Knee surgery,2017-01-03,2017-03-03,60 days,https://www.transfermarkt.co.uk/jonathan-walters/profil/spieler/3306
+Stoke City,Saido Berahino,injury,Fitness,2016-10-12,2017-01-20,101 days,https://www.transfermarkt.co.uk/saido-berahino/profil/spieler/128897
+Stoke City,Saido Berahino,suspension,Doping ban,2016-11-03,2016-12-29,57 days,https://www.transfermarkt.co.uk/saido-berahino/profil/spieler/128897
+Stoke City,Marko Arnautovic,suspension,Red card suspension,2016-12-15,2017-01-02,19 days,https://www.transfermarkt.co.uk/marko-arnautovic/profil/spieler/41384
+Stoke City,Marko Arnautovic,suspension,Yellow card suspension,2016-10-31,2016-11-07,8 days,https://www.transfermarkt.co.uk/marko-arnautovic/profil/spieler/41384
+Stoke City,Mame Diouf,suspension,Called up to national team,2017-01-04,2017-01-29,26 days,https://www.transfermarkt.co.uk/mame-diouf/profil/spieler/62049
+Stoke City,Joselu,injury,Achilles tendon problems,2017-04-27,2017-05-31,35 days,https://www.transfermarkt.co.uk/joselu/profil/spieler/81999
+Stoke City,Joselu,injury,Knee injury,2016-09-12,2016-11-28,78 days,https://www.transfermarkt.co.uk/joselu/profil/spieler/81999
+Hull City,Allan McGregor,injury,Fitness,2017-01-06,2017-01-17,12 days,https://www.transfermarkt.co.uk/allan-mcgregor/profil/spieler/9422
+Hull City,Allan McGregor,injury,Back injury,2016-05-13,2017-01-05,238 days,https://www.transfermarkt.co.uk/allan-mcgregor/profil/spieler/9422
+Hull City,Andrea Ranocchia,injury,Achilles tendon problems,2016-10-13,2016-10-24,12 days,https://www.transfermarkt.co.uk/andrea-ranocchia/profil/spieler/44327
+Hull City,Markus Henriksen,injury,Shoulder injury,2017-01-10,2017-04-01,82 days,https://www.transfermarkt.co.uk/markus-henriksen/profil/spieler/122011
+Hull City,Curtis Davies,injury,Hamstring injury,2017-01-29,2017-03-10,41 days,https://www.transfermarkt.co.uk/curtis-davies/profil/spieler/18227
+Hull City,Curtis Davies,injury,Hamstring injury,2017-01-02,2017-01-20,19 days,https://www.transfermarkt.co.uk/curtis-davies/profil/spieler/18227
+Hull City,Michael Dawson,injury,Calf strain,2017-02-04,2017-04-01,57 days,https://www.transfermarkt.co.uk/michael-dawson/profil/spieler/9988
+Hull City,Michael Dawson,injury,Knee injury,2016-07-20,2016-10-20,93 days,https://www.transfermarkt.co.uk/michael-dawson/profil/spieler/9988
+Hull City,Alex Bruce,injury,Achilles tendon surgery,2016-07-11,2017-02-01,206 days,https://www.transfermarkt.co.uk/alex-bruce/profil/spieler/37957
+Hull City,Andrew Robertson,injury,Calf strain,2016-10-15,2016-11-26,43 days,https://www.transfermarkt.co.uk/andrew-robertson/profil/spieler/234803
+Hull City,Omar Elabdellaoui,injury,Fitness,2016-09-05,2016-10-17,43 days,https://www.transfermarkt.co.uk/omar-elabdellaoui/profil/spieler/121404
+Hull City,Omar Elabdellaoui,injury,Ankle injury,2016-05-04,2016-09-04,124 days,https://www.transfermarkt.co.uk/omar-elabdellaoui/profil/spieler/121404
+Hull City,Moses Odubajo,injury,Knee injury,2016-07-15,2018-09-21,799 days,https://www.transfermarkt.co.uk/moses-odubajo/profil/spieler/163738
+Hull City,Ahmed El Mohamady,suspension,Called up to national team,2017-01-03,2017-02-05,34 days,https://www.transfermarkt.co.uk/ahmed-el-mohamady/profil/spieler/66333
+Hull City,Ahmed El Mohamady,suspension,Red card suspension,2016-09-25,2016-10-02,8 days,https://www.transfermarkt.co.uk/ahmed-el-mohamady/profil/spieler/66333
+Hull City,Tom Huddlestone,suspension,Red card suspension,2017-03-19,2017-04-09,22 days,https://www.transfermarkt.co.uk/tom-huddlestone/profil/spieler/13465
+Hull City,Ryan Mason,injury,Skull fracture,2017-01-22,2018-02-13,388 days,https://www.transfermarkt.co.uk/ryan-mason/profil/spieler/61834
+Hull City,Sam Clucas,suspension,Red card suspension,2017-02-12,2017-02-26,15 days,https://www.transfermarkt.co.uk/sam-clucas/profil/spieler/122223
+Hull City,Shaun Maloney,injury,Back injury,2016-11-04,2016-12-09,36 days,https://www.transfermarkt.co.uk/shaun-maloney/profil/spieler/9508
+Hull City,Kamil Grosicki,injury,Back problems,2016-12-12,2016-12-15,4 days,https://www.transfermarkt.co.uk/kamil-grosicki/profil/spieler/37920
+Hull City,Kamil Grosicki,injury,cold,2016-11-21,2016-11-28,8 days,https://www.transfermarkt.co.uk/kamil-grosicki/profil/spieler/37920
+Hull City,Kamil Grosicki,injury,muscular problems,2016-08-21,2016-09-19,30 days,https://www.transfermarkt.co.uk/kamil-grosicki/profil/spieler/37920
+Hull City,Lazar Markovic,injury,Ankle injury,2017-05-06,2017-07-05,61 days,https://www.transfermarkt.co.uk/lazar-markovic/profil/spieler/144303
+Hull City,Lazar Markovic,injury,Knock,2016-12-08,2016-12-20,13 days,https://www.transfermarkt.co.uk/lazar-markovic/profil/spieler/144303
+Hull City,Robert Snodgrass,injury,Muscle injury,2017-01-19,2017-01-27,9 days,https://www.transfermarkt.co.uk/robert-snodgrass/profil/spieler/22614
+Hull City,Robert Snodgrass,injury,Ankle injury,2016-10-22,2016-11-10,20 days,https://www.transfermarkt.co.uk/robert-snodgrass/profil/spieler/22614
+Hull City,Abel Hernández,injury,Foot injury,2017-05-10,2017-05-31,22 days,https://www.transfermarkt.co.uk/abel-hernandez/profil/spieler/76608
+Hull City,Abel Hernández,injury,Hamstring injury,2017-02-04,2017-02-25,22 days,https://www.transfermarkt.co.uk/abel-hernandez/profil/spieler/76608
+Hull City,Abel Hernández,injury,Adductor injury,2016-11-07,2017-01-02,57 days,https://www.transfermarkt.co.uk/abel-hernandez/profil/spieler/76608
+Hull City,Dieumerci Mbokani,injury,Hamstring injury,2017-02-27,2017-06-29,123 days,https://www.transfermarkt.co.uk/dieumerci-mbokani/profil/spieler/44624
+Hull City,Dieumerci Mbokani,injury,Hamstring injury,2016-10-10,2016-11-03,25 days,https://www.transfermarkt.co.uk/dieumerci-mbokani/profil/spieler/44624
+Hull City,Dieumerci Mbokani,suspension,Called up to national team,2017-01-03,2017-01-30,28 days,https://www.transfermarkt.co.uk/dieumerci-mbokani/profil/spieler/44624
+Hull City,Will Keane,injury,Cruciate ligament injury,2016-11-06,2018-01-19,440 days,https://www.transfermarkt.co.uk/will-keane/profil/spieler/118535
+Hull City,Will Keane,injury,Groin injury,2016-02-22,2016-09-09,201 days,https://www.transfermarkt.co.uk/will-keane/profil/spieler/118535
+Hull City,Adama Diomande,suspension,Suspension through sports court,2016-10-28,2016-11-20,24 days,https://www.transfermarkt.co.uk/adama-diomande/profil/spieler/93145
+Hull City,Greg Luer,injury,Knee injury,2016-08-23,2017-08-24,367 days,https://www.transfermarkt.co.uk/greg-luer/profil/spieler/356195
+Sunderland AFC,Jordan Pickford,injury,Knee injury,2016-12-26,2017-02-27,64 days,https://www.transfermarkt.co.uk/jordan-pickford/profil/spieler/130164
+Sunderland AFC,Vito Mannone,injury,Elbow injury,2016-08-23,2016-11-18,88 days,https://www.transfermarkt.co.uk/vito-mannone/profil/spieler/33781
+Sunderland AFC,Lamine Koné,suspension,Called up to national team,2017-01-03,2017-01-25,23 days,https://www.transfermarkt.co.uk/lamine-kone/profil/spieler/57420
+Sunderland AFC,Papy Djilobodji,suspension,Suspension through sports court,2017-01-27,2017-02-26,31 days,https://www.transfermarkt.co.uk/papy-djilobodji/profil/spieler/136610
+Sunderland AFC,Papy Djilobodji,suspension,Indirect card suspension,2016-11-20,2016-11-27,8 days,https://www.transfermarkt.co.uk/papy-djilobodji/profil/spieler/136610
+Sunderland AFC,Jack Rodwell,injury,Calf strain,2017-04-28,2017-05-05,8 days,https://www.transfermarkt.co.uk/jack-rodwell/profil/spieler/57079
+Sunderland AFC,Jack Rodwell,injury,Hamstring injury,2016-11-03,2016-12-31,59 days,https://www.transfermarkt.co.uk/jack-rodwell/profil/spieler/57079
+Sunderland AFC,Jason Denayer,injury,Hamstring injury,2016-12-26,2017-01-06,12 days,https://www.transfermarkt.co.uk/jason-denayer/profil/spieler/277114
+Sunderland AFC,Jason Denayer,injury,Adductor tear,2016-10-08,2016-11-04,28 days,https://www.transfermarkt.co.uk/jason-denayer/profil/spieler/277114
+Sunderland AFC,Paddy McNair,injury,Cruciate ligament injury,2016-11-19,2017-11-09,356 days,https://www.transfermarkt.co.uk/paddy-mcnair/profil/spieler/167268
+Sunderland AFC,Joleon Lescott,injury,Arthroscopy,2016-10-06,2016-12-07,63 days,https://www.transfermarkt.co.uk/joleon-lescott/profil/spieler/4241
+Sunderland AFC,John O'Shea,injury,Hip problems,2016-08-21,2016-09-09,20 days,https://www.transfermarkt.co.uk/john-oshea/profil/spieler/3540
+Sunderland AFC,Patrick van Aanholt,injury,Ankle injury,2017-03-06,2017-04-13,39 days,https://www.transfermarkt.co.uk/patrick-van-aanholt/profil/spieler/52119
+Sunderland AFC,Bryan Oviedo,injury,Hamstring injury,2017-04-09,2017-05-13,35 days,https://www.transfermarkt.co.uk/bryan-oviedo/profil/spieler/124983
+Sunderland AFC,Billy Jones,injury,Hamstring injury,2016-07-30,2016-09-20,53 days,https://www.transfermarkt.co.uk/billy-jones/profil/spieler/36866
+Sunderland AFC,Didier Ndong,suspension,Called up to national team,2017-01-03,2017-01-23,21 days,https://www.transfermarkt.co.uk/didier-ndong/profil/spieler/210081
+Sunderland AFC,Lee Cattermole,injury,Hip injury,2016-11-14,2017-04-01,139 days,https://www.transfermarkt.co.uk/lee-cattermole/profil/spieler/37363
+Sunderland AFC,Lee Cattermole,injury,Back injury,2016-09-27,2016-11-19,54 days,https://www.transfermarkt.co.uk/lee-cattermole/profil/spieler/37363
+Sunderland AFC,Lee Cattermole,injury,Inguinal hernia,2016-07-08,2016-09-16,71 days,https://www.transfermarkt.co.uk/lee-cattermole/profil/spieler/37363
+Sunderland AFC,Jan Kirchhoff,injury,Tear of the lateral meniscus,2016-12-15,2017-06-01,169 days,https://www.transfermarkt.co.uk/jan-kirchhoff/profil/spieler/49734
+Sunderland AFC,Jan Kirchhoff,injury,Hamstring injury,2016-10-03,2016-11-17,46 days,https://www.transfermarkt.co.uk/jan-kirchhoff/profil/spieler/49734
+Sunderland AFC,Jan Kirchhoff,injury,Hamstring injury,2016-08-01,2016-09-05,36 days,https://www.transfermarkt.co.uk/jan-kirchhoff/profil/spieler/49734
+Sunderland AFC,Sebastian Larsson,injury,Inner ligament injury,2016-08-11,2016-11-24,106 days,https://www.transfermarkt.co.uk/sebastian-larsson/profil/spieler/31720
+Sunderland AFC,Sebastian Larsson,suspension,Red card suspension,2017-04-10,2017-04-27,18 days,https://www.transfermarkt.co.uk/sebastian-larsson/profil/spieler/31720
+Sunderland AFC,Darron Gibson,injury,Groin strain,2016-08-22,2016-10-13,53 days,https://www.transfermarkt.co.uk/darron-gibson/profil/spieler/42413
+Sunderland AFC,Steven Pienaar,injury,Calf strain,2017-02-11,2017-04-08,57 days,https://www.transfermarkt.co.uk/steven-pienaar/profil/spieler/4321
+Sunderland AFC,Steven Pienaar,injury,Hamstring injury,2016-09-24,2016-10-15,22 days,https://www.transfermarkt.co.uk/steven-pienaar/profil/spieler/4321
+Sunderland AFC,Steven Pienaar,suspension,Indirect card suspension,2016-11-06,2016-11-20,15 days,https://www.transfermarkt.co.uk/steven-pienaar/profil/spieler/4321
+Sunderland AFC,Wahbi Khazri,suspension,Called up to national team,2017-01-03,2017-01-29,27 days,https://www.transfermarkt.co.uk/wahbi-khazri/profil/spieler/103565
+Sunderland AFC,Fabio Borini,injury,Groin injury,2016-08-27,2016-12-09,105 days,https://www.transfermarkt.co.uk/fabio-borini/profil/spieler/96754
+Sunderland AFC,Fabio Borini,injury,Toe injury,2016-08-18,2016-08-26,9 days,https://www.transfermarkt.co.uk/fabio-borini/profil/spieler/96754
+Sunderland AFC,Jeremain Lens,injury,Torn muscle fiber,2016-11-09,2016-12-01,23 days,https://www.transfermarkt.co.uk/jeremain-lens/profil/spieler/38497
+Sunderland AFC,Jeremain Lens,injury,unknown injury,2016-09-29,2016-10-21,23 days,https://www.transfermarkt.co.uk/jeremain-lens/profil/spieler/38497
+Sunderland AFC,Adnan Januzaj,injury,Ankle injury,2016-09-24,2016-11-05,43 days,https://www.transfermarkt.co.uk/adnan-januzaj/profil/spieler/177847
+Sunderland AFC,Duncan Watmore,injury,Knee injury,2016-12-03,2017-09-15,287 days,https://www.transfermarkt.co.uk/duncan-watmore/profil/spieler/248045
+Sunderland AFC,Lynden Gooch,injury,Ankle injury,2016-11-28,2017-01-29,63 days,https://www.transfermarkt.co.uk/lynden-gooch/profil/spieler/307781
+Sunderland AFC,Victor Anichebe,injury,Knee injury,2017-01-21,2017-04-04,74 days,https://www.transfermarkt.co.uk/victor-anichebe/profil/spieler/39532
+Burnley FC,Kevin Long,injury,Knee injury,2017-01-19,2017-06-01,134 days,https://www.transfermarkt.co.uk/kevin-long/profil/spieler/111114
+Burnley FC,Matthew Lowton,suspension,Yellow card suspension,2016-12-19,2016-12-27,9 days,https://www.transfermarkt.co.uk/matthew-lowton/profil/spieler/102258
+Burnley FC,Steven Defour,injury,Hamstring injury,2017-01-31,2017-03-04,33 days,https://www.transfermarkt.co.uk/steven-defour/profil/spieler/33866
+Burnley FC,Jeff Hendrick,suspension,Yellow card suspension,2016-12-27,2017-01-01,6 days,https://www.transfermarkt.co.uk/jeff-hendrick/profil/spieler/148262
+Burnley FC,Dean Marney,injury,Cruciate ligament tear,2017-01-22,2017-12-25,338 days,https://www.transfermarkt.co.uk/dean-marney/profil/spieler/4055
+Burnley FC,Dean Marney,suspension,Yellow card suspension,2017-01-01,2017-01-03,3 days,https://www.transfermarkt.co.uk/dean-marney/profil/spieler/4055
+Burnley FC,Joey Barton,suspension,Suspension through sports court,2017-04-26,2018-05-31,401 days,https://www.transfermarkt.co.uk/joey-barton/profil/spieler/3292
+Burnley FC,Joey Barton,suspension,special leave,2016-11-03,2016-11-10,8 days,https://www.transfermarkt.co.uk/joey-barton/profil/spieler/3292
+Burnley FC,Joey Barton,suspension,Suspended,2016-09-15,2016-11-03,50 days,https://www.transfermarkt.co.uk/joey-barton/profil/spieler/3292
+Burnley FC,Robbie Brady,suspension,Red card suspension,2016-12-31,2017-01-16,17 days,https://www.transfermarkt.co.uk/robbie-brady/profil/spieler/128229
+Burnley FC,Jóhann Berg Gudmundsson,injury,Knee injury,2017-02-18,2017-04-15,57 days,https://www.transfermarkt.co.uk/johann-berg-gudmundsson/profil/spieler/89231
+Burnley FC,Andre Gray,suspension,Suspension through sports court,2016-09-23,2016-10-23,31 days,https://www.transfermarkt.co.uk/andre-gray/profil/spieler/120565
+Burnley FC,Ashley Barnes,injury,Hamstring injury,2016-08-01,2016-11-05,97 days,https://www.transfermarkt.co.uk/ashley-barnes/profil/spieler/63200
+Burnley FC,Ashley Barnes,suspension,Indirect card suspension,2017-02-26,2017-03-05,8 days,https://www.transfermarkt.co.uk/ashley-barnes/profil/spieler/63200
+Crystal Palace,Steve Mandanda,injury,Knee surgery,2016-11-13,2017-04-15,154 days,https://www.transfermarkt.co.uk/steve-mandanda/profil/spieler/23951
+Crystal Palace,Mamadou Sakho,injury,Ligament injury,2017-04-26,2017-09-18,146 days,https://www.transfermarkt.co.uk/mamadou-sakho/profil/spieler/47713
+Crystal Palace,Mamadou Sakho,injury,Achilles tendon problems,2016-07-12,2016-08-23,43 days,https://www.transfermarkt.co.uk/mamadou-sakho/profil/spieler/47713
+Crystal Palace,James Tomkins,injury,Groin strain,2016-12-09,2016-12-31,23 days,https://www.transfermarkt.co.uk/james-tomkins/profil/spieler/61592
+Crystal Palace,Damien Delaney,suspension,Yellow card suspension,2016-12-27,2017-01-02,7 days,https://www.transfermarkt.co.uk/damien-delaney/profil/spieler/36861
+Crystal Palace,Patrick van Aanholt,injury,Ankle injury,2017-03-06,2017-04-13,39 days,https://www.transfermarkt.co.uk/patrick-van-aanholt/profil/spieler/52119
+Crystal Palace,Pape Souaré,injury,traffic accident,2016-09-11,2017-08-25,349 days,https://www.transfermarkt.co.uk/pape-souare/profil/spieler/125868
+Crystal Palace,Mathieu Flamini,injury,Muscle injury,2017-02-18,2017-04-05,47 days,https://www.transfermarkt.co.uk/mathieu-flamini/profil/spieler/17396
+Crystal Palace,Yohan Cabaye,injury,Groin injury,2016-08-31,2016-09-16,17 days,https://www.transfermarkt.co.uk/yohan-cabaye/profil/spieler/29434
+Crystal Palace,Yohan Cabaye,suspension,Yellow card suspension,2016-11-27,2016-12-04,8 days,https://www.transfermarkt.co.uk/yohan-cabaye/profil/spieler/29434
+Crystal Palace,James McArthur,injury,Groin problems,2016-08-30,2016-09-09,11 days,https://www.transfermarkt.co.uk/james-mcarthur/profil/spieler/41416
+Crystal Palace,Jeffrey Schlupp,injury,Hamstring injury,2017-01-28,2017-02-04,8 days,https://www.transfermarkt.co.uk/jeffrey-schlupp/profil/spieler/157506
+Crystal Palace,Jeffrey Schlupp,injury,Muscle strain,2016-08-18,2016-09-17,31 days,https://www.transfermarkt.co.uk/jeffrey-schlupp/profil/spieler/157506
+Crystal Palace,Jonny Williams,injury,Shoulder injury,2016-12-21,2017-04-02,103 days,https://www.transfermarkt.co.uk/jonny-williams/profil/spieler/170322
+Crystal Palace,Yannick Bolasie,injury,Cruciate ligament tear,2016-12-05,2017-12-10,371 days,https://www.transfermarkt.co.uk/yannick-bolasie/profil/spieler/75471
+Crystal Palace,Wilfried Zaha,suspension,Called up to national team,2017-01-04,2017-01-25,22 days,https://www.transfermarkt.co.uk/wilfried-zaha/profil/spieler/145988
+Crystal Palace,Bakary Sako,injury,Muscle injury,2016-12-09,2017-01-01,24 days,https://www.transfermarkt.co.uk/bakary-sako/profil/spieler/46791
+Crystal Palace,Bakary Sako,injury,Groin strain,2016-07-20,2016-09-14,57 days,https://www.transfermarkt.co.uk/bakary-sako/profil/spieler/46791
+Crystal Palace,Bakary Sako,suspension,Called up to national team,2017-01-02,2017-01-26,25 days,https://www.transfermarkt.co.uk/bakary-sako/profil/spieler/46791
+Crystal Palace,Loïc Rémy,injury,Calf strain,2016-11-17,2017-01-07,52 days,https://www.transfermarkt.co.uk/loic-remy/profil/spieler/45121
+Crystal Palace,Loïc Rémy,injury,Hamstring injury,2016-09-05,2016-11-05,62 days,https://www.transfermarkt.co.uk/loic-remy/profil/spieler/45121
+Crystal Palace,Connor Wickham,injury,Cruciate ligament tear,2016-11-27,2018-03-12,471 days,https://www.transfermarkt.co.uk/connor-wickham/profil/spieler/95435
+Crystal Palace,Fraizer Campbell,injury,Hamstring injury,2017-03-22,2017-04-14,24 days,https://www.transfermarkt.co.uk/fraizer-campbell/profil/spieler/42411
+Crystal Palace,Fraizer Campbell,injury,Hamstring injury,2016-07-27,2016-09-19,55 days,https://www.transfermarkt.co.uk/fraizer-campbell/profil/spieler/42411
+Crystal Palace,Jonathan Benteke,injury,Knee injury,2016-09-29,2017-01-29,123 days,https://www.transfermarkt.co.uk/jonathan-benteke/profil/spieler/273773
+Crystal Palace,Kwesi Appiah,injury,Cruciate ligament tear,2015-06-04,2016-10-12,497 days,https://www.transfermarkt.co.uk/kwesi-appiah/profil/spieler/121223
+Watford FC,Costel Pantilimon,injury,Foot injury,2017-01-29,2017-02-25,28 days,https://www.transfermarkt.co.uk/costel-pantilimon/profil/spieler/47659
+Watford FC,Giedrius Arlauskis,suspension,No eligibility,2016-09-01,2017-01-30,152 days,https://www.transfermarkt.co.uk/giedrius-arlauskis/profil/spieler/69001
+Watford FC,Christian Kabasele,injury,Hip injury,2017-02-28,2017-04-07,39 days,https://www.transfermarkt.co.uk/christian-kabasele/profil/spieler/81512
+Watford FC,Christian Kabasele,injury,Hamstring injury,2017-01-21,2017-02-04,15 days,https://www.transfermarkt.co.uk/christian-kabasele/profil/spieler/81512
+Watford FC,Craig Cathcart,injury,Inguinal hernia,2016-09-26,2016-12-17,83 days,https://www.transfermarkt.co.uk/craig-cathcart/profil/spieler/59606
+Watford FC,Miguel Britos,injury,Knock,2017-05-02,2017-05-23,22 days,https://www.transfermarkt.co.uk/miguel-britos/profil/spieler/76799
+Watford FC,Miguel Britos,suspension,Indirect card suspension,2017-04-05,2017-04-16,12 days,https://www.transfermarkt.co.uk/miguel-britos/profil/spieler/76799
+Watford FC,Miguel Britos,suspension,Yellow card suspension,2016-12-27,2017-01-02,7 days,https://www.transfermarkt.co.uk/miguel-britos/profil/spieler/76799
+Watford FC,Miguel Britos,suspension,Indirect card suspension,2016-11-28,2016-12-04,7 days,https://www.transfermarkt.co.uk/miguel-britos/profil/spieler/76799
+Watford FC,Adrian Mariappa,injury,Knee injury,2016-12-01,2017-01-22,53 days,https://www.transfermarkt.co.uk/adrian-mariappa/profil/spieler/38145
+Watford FC,Tommie Hoban,injury,Shoulder injury,2016-11-01,2017-03-01,121 days,https://www.transfermarkt.co.uk/tommie-hoban/profil/spieler/183161
+Watford FC,Jose Cholevas,suspension,Yellow card suspension,2016-11-07,2016-11-20,14 days,https://www.transfermarkt.co.uk/jose-cholevas/profil/spieler/41112
+Watford FC,Daryl Janmaat,injury,Shoulder injury,2016-11-07,2016-11-18,12 days,https://www.transfermarkt.co.uk/daryl-janmaat/profil/spieler/60744
+Watford FC,Daryl Janmaat,injury,Shoulder injury,2016-09-18,2016-10-16,29 days,https://www.transfermarkt.co.uk/daryl-janmaat/profil/spieler/60744
+Watford FC,Mario Suárez,injury,muscular problems,2017-04-25,2017-05-10,16 days,https://www.transfermarkt.co.uk/mario-suarez/profil/spieler/37337
+Watford FC,Brice Dja Djedje,injury,Foot injury,2016-07-20,2016-09-01,44 days,https://www.transfermarkt.co.uk/brice-dja-djedje/profil/spieler/93690
+Watford FC,Brice Dja Djedje,suspension,No eligibility,2016-09-01,2017-06-30,303 days,https://www.transfermarkt.co.uk/brice-dja-djedje/profil/spieler/93690
+Watford FC,Valon Behrami,injury,Hamstring injury,2017-03-18,2017-08-18,154 days,https://www.transfermarkt.co.uk/valon-behrami/profil/spieler/21905
+Watford FC,Valon Behrami,suspension,Yellow card suspension,2016-11-28,2016-12-04,7 days,https://www.transfermarkt.co.uk/valon-behrami/profil/spieler/21905
+Watford FC,Juan Carlos Paredes,injury,Knee problems,2017-02-17,2017-02-24,8 days,https://www.transfermarkt.co.uk/juan-carlos-paredes/profil/spieler/100507
+Watford FC,Juan Carlos Paredes,suspension,No eligibility,2016-09-01,2017-01-30,152 days,https://www.transfermarkt.co.uk/juan-carlos-paredes/profil/spieler/100507
+Watford FC,Adlène Guédioura,suspension,Called up to national team,2017-01-04,2017-01-24,21 days,https://www.transfermarkt.co.uk/adlene-guedioura/profil/spieler/74768
+Watford FC,Roberto Pereyra,injury,Knee injury,2016-12-14,2017-05-31,169 days,https://www.transfermarkt.co.uk/roberto-pereyra/profil/spieler/112302
+Watford FC,Ben Watson,injury,Groin strain,2017-02-08,2017-05-11,93 days,https://www.transfermarkt.co.uk/ben-watson/profil/spieler/14081
+Watford FC,Ben Watson,suspension,Red card suspension,2016-08-14,2016-08-21,8 days,https://www.transfermarkt.co.uk/ben-watson/profil/spieler/14081
+Watford FC,Kenedy,injury,Knee injury,2016-10-10,2017-01-27,110 days,https://www.transfermarkt.co.uk/kenedy/profil/spieler/281404
+Watford FC,Steven Berghuis,injury,Knee injury,2016-10-01,2016-10-13,13 days,https://www.transfermarkt.co.uk/steven-berghuis/profil/spieler/129554
+Watford FC,Nordin Amrabat,injury,Foot injury,2017-01-02,2017-02-02,32 days,https://www.transfermarkt.co.uk/nordin-amrabat/profil/spieler/55619
+Watford FC,Nordin Amrabat,suspension,Called up to national team,2017-01-03,2017-02-03,32 days,https://www.transfermarkt.co.uk/nordin-amrabat/profil/spieler/55619
+Watford FC,M'Baye Niang,injury,minor knock,2016-10-31,2016-11-07,8 days,https://www.transfermarkt.co.uk/mbaye-niang/profil/spieler/157501
+Watford FC,Stefano Okaka,injury,Hamstring injury,2016-12-10,2017-01-14,36 days,https://www.transfermarkt.co.uk/stefano-okaka/profil/spieler/35249
+Watford FC,Stefano Okaka,injury,Hamstring injury,2016-09-10,2016-11-19,71 days,https://www.transfermarkt.co.uk/stefano-okaka/profil/spieler/35249
+Watford FC,Isaac Success,injury,Hamstring injury,2016-12-23,2017-02-04,44 days,https://www.transfermarkt.co.uk/isaac-success/profil/spieler/295331
+Watford FC,Isaac Success,injury,Hamstring injury,2016-10-16,2016-12-03,49 days,https://www.transfermarkt.co.uk/isaac-success/profil/spieler/295331
+Watford FC,Isaac Success,injury,Facial fracture,2016-04-22,2016-08-26,127 days,https://www.transfermarkt.co.uk/isaac-success/profil/spieler/295331
+Watford FC,Obbi Oulare,injury,Hamstring injury,2017-02-24,2017-03-09,14 days,https://www.transfermarkt.co.uk/obbi-oulare/profil/spieler/314959
+Watford FC,Obbi Oulare,injury,Foot injury,2016-09-03,2016-09-26,24 days,https://www.transfermarkt.co.uk/obbi-oulare/profil/spieler/314959
+Watford FC,Mauro Zárate,injury,Cruciate ligament tear,2017-02-25,2017-09-23,211 days,https://www.transfermarkt.co.uk/mauro-zarate/profil/spieler/26456
+Swansea City,Federico Fernández,injury,Broken toe,2016-12-01,2016-12-25,25 days,https://www.transfermarkt.co.uk/federico-fernandez/profil/spieler/85475
+Swansea City,Jordi Amat,suspension,Yellow card suspension,2017-01-01,2017-01-04,4 days,https://www.transfermarkt.co.uk/jordi-amat/profil/spieler/85289
+Swansea City,Neil Taylor,injury,Broken cheekbone,2017-01-11,2017-02-04,25 days,https://www.transfermarkt.co.uk/neil-taylor/profil/spieler/67416
+Swansea City,Neil Taylor,injury,Groin strain,2016-12-20,2016-12-31,12 days,https://www.transfermarkt.co.uk/neil-taylor/profil/spieler/67416
+Swansea City,Franck Tabanou,injury,Ankle injury,2017-04-23,2017-06-23,62 days,https://www.transfermarkt.co.uk/franck-tabanou/profil/spieler/66413
+Swansea City,Franck Tabanou,injury,Achilles tendon irritation,2016-09-24,2016-11-17,55 days,https://www.transfermarkt.co.uk/franck-tabanou/profil/spieler/66413
+Swansea City,Ángel Rangel,injury,Metatarsal fracture,2017-03-11,2017-06-01,83 days,https://www.transfermarkt.co.uk/angel-rangel/profil/spieler/66550
+Swansea City,Leroy Fer,suspension,Yellow card suspension,2017-01-23,2017-01-30,8 days,https://www.transfermarkt.co.uk/leroy-fer/profil/spieler/63342
+Swansea City,Sung-yueng Ki,injury,Knee injury,2017-01-31,2017-03-04,33 days,https://www.transfermarkt.co.uk/sung-yueng-ki/profil/spieler/81796
+Swansea City,Sung-yueng Ki,injury,Broken toe,2016-11-19,2016-12-17,29 days,https://www.transfermarkt.co.uk/sung-yueng-ki/profil/spieler/81796
+Swansea City,Jack Cork,injury,Ankle injury,2017-04-08,2017-04-29,22 days,https://www.transfermarkt.co.uk/jack-cork/profil/spieler/40613
+Swansea City,Leon Britton,injury,Hamstring injury,2017-03-28,2017-04-15,19 days,https://www.transfermarkt.co.uk/leon-britton/profil/spieler/40043
+Swansea City,Jefferson Montero,injury,Torn muscle fiber,2017-05-01,2017-09-20,143 days,https://www.transfermarkt.co.uk/jefferson-montero/profil/spieler/77932
+Swansea City,Jefferson Montero,injury,Hamstring injury,2016-12-27,2017-02-28,64 days,https://www.transfermarkt.co.uk/jefferson-montero/profil/spieler/77932
+Swansea City,Jefferson Montero,injury,Broken hand,2016-11-07,2016-11-25,19 days,https://www.transfermarkt.co.uk/jefferson-montero/profil/spieler/77932
+Swansea City,Jefferson Montero,injury,Hamstring injury,2016-09-30,2016-11-04,36 days,https://www.transfermarkt.co.uk/jefferson-montero/profil/spieler/77932
+Swansea City,Jordan Ayew,suspension,Called up to national team,2017-01-03,2017-02-05,34 days,https://www.transfermarkt.co.uk/jordan-ayew/profil/spieler/108354
+Swansea City,Luciano Narsingh,injury,Hamstring injury,2016-11-04,2016-11-26,23 days,https://www.transfermarkt.co.uk/luciano-narsingh/profil/spieler/72462
+Swansea City,Luciano Narsingh,injury,Leg injury,2016-10-09,2016-10-14,6 days,https://www.transfermarkt.co.uk/luciano-narsingh/profil/spieler/72462
+Swansea City,Nathan Dyer,injury,Achilles tendon rupture,2017-02-13,2017-09-22,222 days,https://www.transfermarkt.co.uk/nathan-dyer/profil/spieler/37011
+Swansea City,Nathan Dyer,injury,Ankle injury,2016-09-10,2016-11-19,71 days,https://www.transfermarkt.co.uk/nathan-dyer/profil/spieler/37011
+Swansea City,Borja Bastón,injury,Muscle injury,2016-08-17,2016-09-18,33 days,https://www.transfermarkt.co.uk/borja-baston/profil/spieler/85324
+Swansea City,Marvin Emnes,injury,unknown injury,2017-01-30,2017-02-02,4 days,https://www.transfermarkt.co.uk/marvin-emnes/profil/spieler/37787
+Swansea City,Marvin Emnes,injury,unknown injury,2017-01-06,2017-01-08,3 days,https://www.transfermarkt.co.uk/marvin-emnes/profil/spieler/37787
+Swansea City,Marvin Emnes,injury,unknown injury,2016-11-06,2016-11-21,16 days,https://www.transfermarkt.co.uk/marvin-emnes/profil/spieler/37787
+Swansea City,Marvin Emnes,suspension,Suspended,2016-08-12,2017-02-01,174 days,https://www.transfermarkt.co.uk/marvin-emnes/profil/spieler/37787
+Swansea City,Oli McBurnie,injury,bruise,2017-01-26,2017-02-06,12 days,https://www.transfermarkt.co.uk/oli-mcburnie/profil/spieler/298477
+Middlesbrough FC,Calum Chambers,injury,Foot injury,2017-02-20,2017-04-17,57 days,https://www.transfermarkt.co.uk/calum-chambers/profil/spieler/215118
+Middlesbrough FC,Calum Chambers,injury,Foot injury,2017-01-26,2017-02-02,8 days,https://www.transfermarkt.co.uk/calum-chambers/profil/spieler/215118
+Middlesbrough FC,Bernardo Espinosa,injury,Knee injury,2016-01-10,2016-08-27,231 days,https://www.transfermarkt.co.uk/bernardo-espinosa/profil/spieler/64598
+Middlesbrough FC,Daniel Ayala,injury,Ankle injury,2016-07-06,2016-08-20,46 days,https://www.transfermarkt.co.uk/daniel-ayala/profil/spieler/78966
+Middlesbrough FC,Daniel Ayala,suspension,Red card suspension,2017-01-09,2017-02-01,24 days,https://www.transfermarkt.co.uk/daniel-ayala/profil/spieler/78966
+Middlesbrough FC,George Friend,injury,Calf strain,2017-03-05,2017-04-17,44 days,https://www.transfermarkt.co.uk/george-friend/profil/spieler/77544
+Middlesbrough FC,George Friend,injury,Calf injury,2017-01-28,2017-03-03,35 days,https://www.transfermarkt.co.uk/george-friend/profil/spieler/77544
+Middlesbrough FC,George Friend,injury,Knee injury,2016-11-17,2016-12-14,28 days,https://www.transfermarkt.co.uk/george-friend/profil/spieler/77544
+Middlesbrough FC,James Husband,injury,Shoulder injury,2016-07-09,2017-04-04,270 days,https://www.transfermarkt.co.uk/james-husband/profil/spieler/167393
+Middlesbrough FC,Antonio Barragán,injury,Hamstring injury,2017-01-31,2017-03-04,33 days,https://www.transfermarkt.co.uk/antonio-barragan/profil/spieler/32522
+Middlesbrough FC,Antonio Barragán,suspension,Yellow card suspension,2016-12-27,2017-01-01,6 days,https://www.transfermarkt.co.uk/antonio-barragan/profil/spieler/32522
+Middlesbrough FC,Fábio,injury,concussion,2017-04-02,2017-04-09,8 days,https://www.transfermarkt.co.uk/fabio/profil/spieler/61891
+Middlesbrough FC,Marten de Roon,injury,Hamstring injury,2016-08-13,2016-08-30,18 days,https://www.transfermarkt.co.uk/marten-de-roon/profil/spieler/133179
+Middlesbrough FC,Adlène Guédioura,suspension,Called up to national team,2017-01-04,2017-01-24,21 days,https://www.transfermarkt.co.uk/adlene-guedioura/profil/spieler/74768
+Middlesbrough FC,Gastón Ramírez,injury,Knee injury,2017-01-07,2017-02-11,36 days,https://www.transfermarkt.co.uk/gaston-ramirez/profil/spieler/123742
+Middlesbrough FC,Gastón Ramírez,suspension,Indirect card suspension,2017-04-23,2017-04-27,5 days,https://www.transfermarkt.co.uk/gaston-ramirez/profil/spieler/123742
+Middlesbrough FC,Gastón Ramírez,suspension,Yellow card suspension,2016-10-30,2016-11-06,8 days,https://www.transfermarkt.co.uk/gaston-ramirez/profil/spieler/123742
+Middlesbrough FC,Grant Leadbitter,injury,Inguinal hernia,2016-05-10,2016-10-28,172 days,https://www.transfermarkt.co.uk/grant-leadbitter/profil/spieler/13796
+Middlesbrough FC,Viktor Fischer,injury,Knee injury,2016-12-17,2017-01-21,36 days,https://www.transfermarkt.co.uk/viktor-fischer/profil/spieler/95755
+West Bromwich Albion,Boaz Myhill,injury,Ankle injury,2016-11-15,2016-12-25,41 days,https://www.transfermarkt.co.uk/boaz-myhill/profil/spieler/3838
+West Bromwich Albion,Jonny Evans,injury,Calf strain,2017-01-02,2017-02-11,41 days,https://www.transfermarkt.co.uk/jonny-evans/profil/spieler/42412
+West Bromwich Albion,Jonny Evans,injury,Calf injury,2016-12-11,2016-12-25,15 days,https://www.transfermarkt.co.uk/jonny-evans/profil/spieler/42412
+West Bromwich Albion,Jonny Evans,suspension,Yellow card suspension,2016-10-16,2016-10-23,8 days,https://www.transfermarkt.co.uk/jonny-evans/profil/spieler/42412
+West Bromwich Albion,Brendan Galloway,injury,bruise,2017-01-17,2017-02-04,19 days,https://www.transfermarkt.co.uk/brendan-galloway/profil/spieler/208244
+West Bromwich Albion,Marc Wilson,injury,Hamstring injury,2017-01-08,2017-02-03,27 days,https://www.transfermarkt.co.uk/marc-wilson/profil/spieler/30456
+West Bromwich Albion,Marc Wilson,injury,Inner ligament injury,2016-01-30,2016-08-30,214 days,https://www.transfermarkt.co.uk/marc-wilson/profil/spieler/30456
+West Bromwich Albion,Jonas Olsson,injury,Groin problems,2017-04-28,2017-05-10,13 days,https://www.transfermarkt.co.uk/jonas-olsson/profil/spieler/25248
+West Bromwich Albion,Chris Brunt,injury,Cruciate ligament tear,2016-02-29,2016-10-24,239 days,https://www.transfermarkt.co.uk/chris-brunt/profil/spieler/36814
+West Bromwich Albion,James McClean,suspension,Yellow card suspension,2016-10-30,2016-11-07,9 days,https://www.transfermarkt.co.uk/james-mcclean/profil/spieler/85935
+West Bromwich Albion,Matt Phillips,injury,Hamstring injury,2017-04-25,2017-06-30,67 days,https://www.transfermarkt.co.uk/matt-phillips/profil/spieler/77274
+West Bromwich Albion,Matt Phillips,injury,Hamstring injury,2017-02-11,2017-04-04,53 days,https://www.transfermarkt.co.uk/matt-phillips/profil/spieler/77274
+West Bromwich Albion,Saido Berahino,injury,Fitness,2016-10-12,2017-01-20,101 days,https://www.transfermarkt.co.uk/saido-berahino/profil/spieler/128897
+West Bromwich Albion,Saido Berahino,suspension,Doping ban,2016-11-03,2016-12-29,57 days,https://www.transfermarkt.co.uk/saido-berahino/profil/spieler/128897
+AFC Bournemouth,Artur Boruc,injury,Back problems,2016-11-19,2016-12-02,14 days,https://www.transfermarkt.co.uk/artur-boruc/profil/spieler/15220
+AFC Bournemouth,Adam Federici,injury,Knee injury,2017-01-24,2017-06-30,158 days,https://www.transfermarkt.co.uk/adam-federici/profil/spieler/4233
+AFC Bournemouth,Tyrone Mings,injury,Cruciate ligament tear,2015-08-29,2016-09-19,388 days,https://www.transfermarkt.co.uk/tyrone-mings/profil/spieler/253677
+AFC Bournemouth,Tyrone Mings,suspension,Suspension through sports court,2017-03-09,2017-04-10,33 days,https://www.transfermarkt.co.uk/tyrone-mings/profil/spieler/253677
+AFC Bournemouth,Marc Wilson,injury,Hamstring injury,2017-01-08,2017-02-03,27 days,https://www.transfermarkt.co.uk/marc-wilson/profil/spieler/30456
+AFC Bournemouth,Marc Wilson,injury,Inner ligament injury,2016-01-30,2016-08-30,214 days,https://www.transfermarkt.co.uk/marc-wilson/profil/spieler/30456
+AFC Bournemouth,Charlie Daniels,injury,Hamstring injury,2017-01-27,2017-02-13,18 days,https://www.transfermarkt.co.uk/charlie-daniels/profil/spieler/61819
+AFC Bournemouth,Brad Smith,injury,Foot injury,2016-10-10,2016-11-14,36 days,https://www.transfermarkt.co.uk/brad-smith/profil/spieler/175745
+AFC Bournemouth,Rhoys Wiggins,injury,Knee injury,2016-10-30,2018-06-30,609 days,https://www.transfermarkt.co.uk/rhoys-wiggins/profil/spieler/42298
+AFC Bournemouth,Adam Smith,suspension,Yellow card suspension,2016-11-06,2016-11-20,15 days,https://www.transfermarkt.co.uk/adam-smith/profil/spieler/61841
+AFC Bournemouth,Simon Francis,injury,Hamstring injury,2017-02-13,2017-03-11,27 days,https://www.transfermarkt.co.uk/simon-francis/profil/spieler/13573
+AFC Bournemouth,Simon Francis,suspension,Red card suspension,2017-01-04,2017-01-22,19 days,https://www.transfermarkt.co.uk/simon-francis/profil/spieler/13573
+AFC Bournemouth,Jack Wilshere,injury,Hairline fracture in the fibula,2017-04-16,2017-08-06,113 days,https://www.transfermarkt.co.uk/jack-wilshere/profil/spieler/74223
+AFC Bournemouth,Lewis Cook,injury,Ankle injury,2016-08-16,2017-03-13,210 days,https://www.transfermarkt.co.uk/lewis-cook/profil/spieler/249089
+AFC Bournemouth,Harry Arter,injury,Knee injury,2016-10-15,2016-10-21,7 days,https://www.transfermarkt.co.uk/harry-arter/profil/spieler/55742
+AFC Bournemouth,Andrew Surman,injury,Knee injury,2017-04-01,2017-05-20,50 days,https://www.transfermarkt.co.uk/andrew-surman/profil/spieler/29975
+AFC Bournemouth,Andrew Surman,injury,Hamstring injury,2016-10-29,2016-12-25,58 days,https://www.transfermarkt.co.uk/andrew-surman/profil/spieler/29975
+AFC Bournemouth,Emerson Hyndman,injury,Foot injury,2017-05-02,2017-05-31,30 days,https://www.transfermarkt.co.uk/emerson-hyndman/profil/spieler/223047
+AFC Bournemouth,Max Gradel,injury,Hamstring injury,2016-10-31,2016-11-07,8 days,https://www.transfermarkt.co.uk/max-gradel/profil/spieler/28140
+AFC Bournemouth,Max Gradel,injury,Hamstring injury,2016-10-03,2016-10-17,15 days,https://www.transfermarkt.co.uk/max-gradel/profil/spieler/28140
+AFC Bournemouth,Max Gradel,suspension,Called up to national team,2017-01-02,2017-01-25,24 days,https://www.transfermarkt.co.uk/max-gradel/profil/spieler/28140
+AFC Bournemouth,Junior Stanislas,injury,Groin injury,2017-03-03,2017-03-13,11 days,https://www.transfermarkt.co.uk/junior-stanislas/profil/spieler/87672
+AFC Bournemouth,Junior Stanislas,injury,Ankle injury,2016-12-04,2016-12-25,22 days,https://www.transfermarkt.co.uk/junior-stanislas/profil/spieler/87672
+AFC Bournemouth,Junior Stanislas,injury,Inguinal hernia,2016-06-01,2016-08-27,88 days,https://www.transfermarkt.co.uk/junior-stanislas/profil/spieler/87672
+AFC Bournemouth,Marc Pugh,injury,Hamstring injury,2016-09-07,2016-11-04,59 days,https://www.transfermarkt.co.uk/marc-pugh/profil/spieler/36939
+AFC Bournemouth,Callum Wilson,injury,Cruciate ligament tear,2017-02-02,2017-10-20,261 days,https://www.transfermarkt.co.uk/callum-wilson/profil/spieler/123682
